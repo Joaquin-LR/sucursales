@@ -1,0 +1,2048 @@
+[
+  { "comuna": "Cerrillos", "propia": false, "derivacion": [
+    { "idSucursal": 50, "prioridad": 1 },
+    { "idSucursal": 68, "prioridad": 2 },
+    { "idSucursal": 58, "prioridad": 3 },
+    { "idSucursal": 53, "prioridad": 4 },
+    { "idSucursal": 68, "prioridad": 5 }
+  ]},
+
+  { "comuna": "Cerro Navia", "propia": false, "derivacion": [
+    { "idSucursal": 58, "prioridad": 1 },
+    { "idSucursal": 68, "prioridad": 2 },
+    { "idSucursal": 54, "prioridad": 3 },
+    { "idSucursal": 53, "prioridad": 4 },
+    { "idSucursal": 59, "prioridad": 5 },
+    { "idSucursal": 67, "prioridad": 6 }
+  ]},
+
+  { "comuna": "Conchalí", "propia": false, "derivacion": [
+    { "idSucursal": 59, "prioridad": 1 },
+    { "idSucursal": 58, "prioridad": 2 },
+    { "idSucursal": 68, "prioridad": 3 },
+    { "idSucursal": 54, "prioridad": 4 },
+    { "idSucursal": 53, "prioridad": 5 },
+    { "idSucursal": 67, "prioridad": 6 }
+  ]},
+
+  { "comuna": "El Bosque", "propia": true, "derivacion": [
+    { "idSucursal": 63, "prioridad": 1 },
+    { "idSucursal": 61, "prioridad": 2 },
+    { "idSucursal": 62, "prioridad": 3 }
+  ]},
+
+  { "comuna": "Estación Central", "propia": false, "derivacion": [
+    { "idSucursal": 68, "prioridad": 1 },
+    { "idSucursal": 58, "prioridad": 2 },
+    { "idSucursal": 54, "prioridad": 3 },
+    { "idSucursal": 53, "prioridad": 4 },
+    { "idSucursal": 50, "prioridad": 5 },
+    { "idSucursal": 61, "prioridad": 6 }
+  ]},
+
+  { "comuna": "Huechuraba", "propia": false, "derivacion": [
+    { "idSucursal": 67, "prioridad": 1 },
+    { "idSucursal": 59, "prioridad": 2 },
+    { "idSucursal": 64, "prioridad": 3 }
+  ]},
+
+  { "comuna": "Independencia", "propia": false, "derivacion": [
+    { "idSucursal": 59, "prioridad": 1 },
+    { "idSucursal": 54, "prioridad": 2 },
+    { "idSucursal": 68, "prioridad": 3 },
+    { "idSucursal": 54, "prioridad": 4 },
+    { "idSucursal": 53, "prioridad": 5 },
+    { "idSucursal": 64, "prioridad": 6 }
+  ]},
+
+  { "comuna": "La Cisterna", "propia": false, "derivacion": [
+    { "idSucursal": 61, "prioridad": 1 },
+    { "idSucursal": 63, "prioridad": 2 },
+    { "idSucursal": 62, "prioridad": 3 }
+  ]},
+
+  { "comuna": "La Florida", "propia": true, "derivacion": [
+    { "idSucursal": 56, "prioridad": 1 },
+    { "idSucursal": 57, "prioridad": 2 },
+    { "idSucursal": 65, "prioridad": 3 }
+  ]},
+
+  { "comuna": "La Granja", "propia": false, "derivacion": [
+    { "idSucursal": 65, "prioridad": 1 },
+    { "idSucursal": 56, "prioridad": 2 },
+    { "idSucursal": 61, "prioridad": 3 }
+  ]},
+
+  { "comuna": "La Pintana", "propia": false, "derivacion": [
+    { "idSucursal": 60, "prioridad": 1 },
+    { "idSucursal": 62, "prioridad": 2 },
+    { "idSucursal": 63, "prioridad": 3 }
+  ]},
+
+  { "comuna": "La Reina", "propia": false, "derivacion": [
+    { "idSucursal": 55, "prioridad": 1 },
+    { "idSucursal": 65, "prioridad": 2 },
+    { "idSucursal": 64, "prioridad": 3 }
+  ]},
+
+  { "comuna": "Las Condes", "propia": false, "derivacion": [
+    { "idSucursal": 64, "prioridad": 1 },
+    { "idSucursal": 66, "prioridad": 2 },
+    { "idSucursal": 55, "prioridad": 3 }
+  ]},
+
+  { "comuna": "Lo Barnechea", "propia": false, "derivacion": [
+    { "idSucursal": 66, "prioridad": 1 },
+    { "idSucursal": 64, "prioridad": 2 },
+    { "idSucursal": 55, "prioridad": 3 }
+  ]},
+
+  { "comuna": "Lo Espejo", "propia": false, "derivacion": [
+    { "idSucursal": 61, "prioridad": 1 },
+    { "idSucursal": 63, "prioridad": 2 },
+    { "idSucursal": 50, "prioridad": 3 }
+  ]},
+
+  { "comuna": "Lo Prado", "propia": false, "derivacion": [
+    { "idSucursal": 68, "prioridad": 1 },
+    { "idSucursal": 58, "prioridad": 2 },
+    { "idSucursal": 54, "prioridad": 3 },
+    { "idSucursal": 53, "prioridad": 4 },
+    { "idSucursal": 50, "prioridad": 5 },
+    { "idSucursal": 59, "prioridad": 6 }
+  ]},
+
+  { "comuna": "Macul", "propia": false, "derivacion": [
+    { "idSucursal": 55, "prioridad": 1 },
+    { "idSucursal": 65, "prioridad": 2 },
+    { "idSucursal": 56, "prioridad": 3 }
+  ]},
+
+  { "comuna": "Maipú", "propia": true, "derivacion": [
+    { "idSucursal": 50, "prioridad": 1 },
+    { "idSucursal": 68, "prioridad": 2 },
+    { "idSucursal": 58, "prioridad": 3 },
+    { "idSucursal": 54, "prioridad": 4 },
+    { "idSucursal": 53, "prioridad": 5 },
+    { "idSucursal": 61, "prioridad": 6 }
+  ]},
+
+  { "comuna": "Ñuñoa", "propia": true, "derivacion": [
+    { "idSucursal": 55, "prioridad": 1 },
+    { "idSucursal": 64, "prioridad": 2 },
+    { "idSucursal": 53, "prioridad": 3 },
+    { "idSucursal": 54, "prioridad": 4 },
+    { "idSucursal": 58, "prioridad": 5 },
+    { "idSucursal": 68, "prioridad": 6 }
+  ]},
+
+  { "comuna": "Pedro Aguirre Cerda", "propia": false, "derivacion": [
+    { "idSucursal": 61, "prioridad": 1 },
+    { "idSucursal": 53, "prioridad": 2 },
+    { "idSucursal": 54, "prioridad": 3 },
+    { "idSucursal": 58, "prioridad": 4 },
+    { "idSucursal": 68, "prioridad": 5 },
+    { "idSucursal": 50, "prioridad": 6 }
+  ]},
+
+  { "comuna": "Peñalolén", "propia": true, "derivacion": [
+    { "idSucursal": 65, "prioridad": 1 },
+    { "idSucursal": 55, "prioridad": 2 },
+    { "idSucursal": 56, "prioridad": 3 }
+  ]},
+
+  { "comuna": "Providencia", "propia": true, "derivacion": [
+    { "idSucursal": 64, "prioridad": 1 },
+    { "idSucursal": 66, "prioridad": 2 },
+    { "idSucursal": 55, "prioridad": 3 }
+  ]},
+
+  { "comuna": "Pudahuel", "propia": false, "derivacion": [
+    { "idSucursal": 50, "prioridad": 1 },
+    { "idSucursal": 68, "prioridad": 2 },
+    { "idSucursal": 58, "prioridad": 3 },
+    { "idSucursal": 54, "prioridad": 4 },
+    { "idSucursal": 53, "prioridad": 5 },
+    { "idSucursal": 67, "prioridad": 6 }
+  ]},
+
+  { "comuna": "Puente Alto", "propia": true, "derivacion": [
+    { "idSucursal": 60, "prioridad": 1 },
+    { "idSucursal": 62, "prioridad": 2 },
+    { "idSucursal": 56, "prioridad": 3 }
+  ]},
+
+  { "comuna": "Quilicura", "propia": true, "derivacion": [
+    { "idSucursal": 67, "prioridad": 1 },
+    { "idSucursal": 59, "prioridad": 2 },
+    { "idSucursal": 68, "prioridad": 3 },
+    { "idSucursal": 58, "prioridad": 4 },
+    { "idSucursal": 54, "prioridad": 5 },
+    { "idSucursal": 53, "prioridad": 6 }
+  ]},
+
+  { "comuna": "Quinta Normal", "propia": false, "derivacion": [
+    { "idSucursal": 68, "prioridad": 1 },
+    { "idSucursal": 58, "prioridad": 2 },
+    { "idSucursal": 54, "prioridad": 3 },
+    { "idSucursal": 53, "prioridad": 4 },
+    { "idSucursal": 59, "prioridad": 5 },
+    { "idSucursal": 50, "prioridad": 6 }
+  ]},
+
+  { "comuna": "Recoleta", "propia": true, "derivacion": [
+    { "idSucursal": 59, "prioridad": 1 },
+    { "idSucursal": 58, "prioridad": 2 },
+    { "idSucursal": 68, "prioridad": 3 },
+    { "idSucursal": 54, "prioridad": 4 },
+    { "idSucursal": 53, "prioridad": 5 },
+    { "idSucursal": 64, "prioridad": 6 }
+  ]},
+
+  { "comuna": "Renca", "propia": false, "derivacion": [
+    { "idSucursal": 67, "prioridad": 1 },
+    { "idSucursal": 68, "prioridad": 2 },
+    { "idSucursal": 58, "prioridad": 3 },
+    { "idSucursal": 54, "prioridad": 4 },
+    { "idSucursal": 53, "prioridad": 5 },
+    { "idSucursal": 59, "prioridad": 6 }
+  ]},
+
+  { "comuna": "San Bernardo", "propia": true, "derivacion": [
+    { "idSucursal": 62, "prioridad": 1 },
+    { "idSucursal": 60, "prioridad": 2 },
+    { "idSucursal": 63, "prioridad": 3 }
+  ]},
+
+  { "comuna": "San Joaquín", "propia": false, "derivacion": [
+    { "idSucursal": 61, "prioridad": 1 },
+    { "idSucursal": 55, "prioridad": 2 },
+    { "idSucursal": 54, "prioridad": 3 },
+    { "idSucursal": 53, "prioridad": 4 },
+    { "idSucursal": 58, "prioridad": 5 },
+    { "idSucursal": 68, "prioridad": 6 }
+  ]},
+
+  { "comuna": "San Miguel", "propia": true, "derivacion": [
+    { "idSucursal": 61, "prioridad": 1 },
+    { "idSucursal": 63, "prioridad": 2 },
+    { "idSucursal": 53, "prioridad": 3 },
+    { "idSucursal": 54, "prioridad": 4 },
+    { "idSucursal": 58, "prioridad": 5 },
+    { "idSucursal": 68, "prioridad": 6 }
+  ]},
+
+  { "comuna": "San Ramón", "propia": false, "derivacion": [
+    { "idSucursal": 61, "prioridad": 1 },
+    { "idSucursal": 63, "prioridad": 2 },
+    { "idSucursal": 65, "prioridad": 3 }
+  ]},
+
+  { "comuna": "Santiago", "propia": true, "derivacion": [
+    { "idSucursal": 54, "prioridad": 1 },
+    { "idSucursal": 53, "prioridad": 2 },
+    { "idSucursal": 58, "prioridad": 3 },
+    { "idSucursal": 68, "prioridad": 4 }
+  ]},
+
+  { "comuna": "Vitacura", "propia": false, "derivacion": [
+    { "idSucursal": 66, "prioridad": 1 },
+    { "idSucursal": 64, "prioridad": 2 },
+    { "idSucursal": 55, "prioridad": 3 }
+  ]},
+  {
+    "comuna": "Alhué",
+    "propia": false,
+    "derivacion": [
+      { "idSucursal": 51, "prioridad": 1 },
+      { "idSucursal": 52, "prioridad": 2 },
+      { "idSucursal": 50, "prioridad": 3 }
+    ]
+  },
+  {
+    "comuna": "Buin",
+    "propia": false,
+    "derivacion": [
+      { "idSucursal": 62, "prioridad": 1 },
+      { "idSucursal": 60, "prioridad": 2 },
+      { "idSucursal": 52, "prioridad": 3 }
+    ]
+  },
+  {
+    "comuna": "Calera de Tango",
+    "propia": false,
+    "derivacion": [
+      { "idSucursal": 62, "prioridad": 1 },
+      { "idSucursal": 60, "prioridad": 2 },
+      { "idSucursal": 63, "prioridad": 3 }
+    ]
+  },
+  {
+    "comuna": "Colina",
+    "propia": false,
+    "derivacion": [
+      { "idSucursal": 67, "prioridad": 1 },
+      { "idSucursal": 59, "prioridad": 2 },
+      { "idSucursal": 64, "prioridad": 3 }
+    ]
+  },
+  {
+    "comuna": "Curacaví",
+    "propia": false,
+    "derivacion": [
+      { "idSucursal": 51, "prioridad": 1 },
+      { "idSucursal": 50, "prioridad": 2 },
+      { "idSucursal": 68, "prioridad": 3 },
+      { "idSucursal": 58, "prioridad": 4 },
+      { "idSucursal": 54, "prioridad": 5 },
+      { "idSucursal": 53, "prioridad": 6 }
+    ]
+  },
+  {
+    "comuna": "El Monte",
+    "propia": false,
+    "derivacion": [
+      { "idSucursal": 52, "prioridad": 1 },
+      { "idSucursal": 51, "prioridad": 2 },
+      { "idSucursal": 50, "prioridad": 3 }
+    ]
+  },
+  {
+    "comuna": "Isla de Maipo",
+    "propia": false,
+    "derivacion": [
+      { "idSucursal": 52, "prioridad": 1 },
+      { "idSucursal": 62, "prioridad": 2 },
+      { "idSucursal": 60, "prioridad": 3 }
+    ]
+  },
+  {
+    "comuna": "Lampa",
+    "propia": false,
+    "derivacion": [
+      { "idSucursal": 67, "prioridad": 1 },
+      { "idSucursal": 59, "prioridad": 2 }
+    ]
+  },
+  {
+    "comuna": "María Pinto",
+    "propia": false,
+    "derivacion": [
+      { "idSucursal": 51, "prioridad": 1 },
+      { "idSucursal": 52, "prioridad": 2 },
+      { "idSucursal": 50, "prioridad": 3 }
+    ]
+  },
+  {
+    "comuna": "Melipilla",
+    "propia": true,
+    "derivacion": [
+      { "idSucursal": 51, "prioridad": 1 },
+      { "idSucursal": 52, "prioridad": 2 },
+      { "idSucursal": 50, "prioridad": 3 }
+    ]
+  },
+  {
+    "comuna": "Padre Hurtado",
+    "propia": false,
+    "derivacion": [
+      { "idSucursal": 52, "prioridad": 1 },
+      { "idSucursal": 50, "prioridad": 2 },
+      { "idSucursal": 61, "prioridad": 3 }
+    ]
+  },
+  {
+    "comuna": "Paine",
+    "propia": false,
+    "derivacion": [
+      { "idSucursal": 62, "prioridad": 1 },
+      { "idSucursal": 60, "prioridad": 2 },
+      { "idSucursal": 52, "prioridad": 3 }
+    ]
+  },
+  {
+    "comuna": "Peñaflor",
+    "propia": false,
+    "derivacion": [
+      { "idSucursal": 52, "prioridad": 1 },
+      { "idSucursal": 50, "prioridad": 2 },
+      { "idSucursal": 61, "prioridad": 3 }
+    ]
+  },
+  {
+    "comuna": "Pirque",
+    "propia": false,
+    "derivacion": [
+      { "idSucursal": 60, "prioridad": 1 },
+      { "idSucursal": 62, "prioridad": 2 },
+      { "idSucursal": 56, "prioridad": 3 }
+    ]
+  },
+  {
+    "comuna": "San José de Maipo",
+    "propia": false,
+    "derivacion": [
+      { "idSucursal": 60, "prioridad": 1 },
+      { "idSucursal": 56, "prioridad": 2 },
+      { "idSucursal": 55, "prioridad": 3 }
+    ]
+  },
+  {
+    "comuna": "San Pedro",
+    "propia": false,
+    "derivacion": [
+      { "idSucursal": 51, "prioridad": 1 },
+      { "idSucursal": 52, "prioridad": 2 },
+      { "idSucursal": 50, "prioridad": 3 }
+    ]
+  },
+  {
+    "comuna": "Talagante",
+    "propia": true,
+    "derivacion": [
+      { "idSucursal": 52, "prioridad": 1 },
+      { "idSucursal": 51, "prioridad": 2 },
+      { "idSucursal": 50, "prioridad": 3 }
+    ]
+  },
+  {
+    "comuna": "Tiltil",
+    "propia": false,
+    "derivacion": [
+      { "idSucursal": 67, "prioridad": 1 },
+      { "idSucursal": 59, "prioridad": 2 }
+    ]
+  },
+
+
+
+  { "comuna": "Alto Hospicio", "propia": false, "derivacion": [
+    { "idSucursal": 3, "prioridad": 1 }
+  ]},
+
+  { "comuna": "Camiña", "propia": false, "derivacion": [
+    { "idSucursal": 3, "prioridad": 1 }
+  ]},
+
+  { "comuna": "Colchane", "propia": false, "derivacion": [
+    { "idSucursal": 3, "prioridad": 1 }
+  ]},
+
+  { "comuna": "Huara", "propia": false, "derivacion": [
+    { "idSucursal": 3, "prioridad": 1 }
+  ]},
+
+  { "comuna": "Iquique", "propia": true, "derivacion": [
+    { "idSucursal": 3, "prioridad": 1 }
+  ]},
+
+  { "comuna": "Pica", "propia": false, "derivacion": [
+    { "idSucursal": 3, "prioridad": 1 }
+  ]},
+
+  { "comuna": "Pozo Almonte", "propia": false, "derivacion": [
+    { "idSucursal": 3, "prioridad": 1 }
+  ]},
+
+
+
+{ "comuna": "Antofagasta", "propia": true, "derivacion": [
+    { "idSucursal": 4, "prioridad": 1 },
+    { "idSucursal": 5, "prioridad": 2 }
+  ]},
+
+  { "comuna": "Calama", "propia": true, "derivacion": [
+    { "idSucursal": 5, "prioridad": 1 },
+    { "idSucursal": 4, "prioridad": 2 }
+  ]},
+
+  { "comuna": "María Elena", "propia": false, "derivacion": [
+    { "idSucursal": 5, "prioridad": 1 },
+    { "idSucursal": 4, "prioridad": 2 }
+  ]},
+
+  { "comuna": "Mejillones", "propia": false, "derivacion": [
+    { "idSucursal": 4, "prioridad": 1 },
+    { "idSucursal": 5, "prioridad": 2 }
+  ]},
+
+  { "comuna": "Ollagüe", "propia": false, "derivacion": [
+    { "idSucursal": 5, "prioridad": 1 },
+    { "idSucursal": 4, "prioridad": 2 }
+  ]},
+
+  { "comuna": "San Pedro de Atacama", "propia": false, "derivacion": [
+    { "idSucursal": 5, "prioridad": 1 },
+    { "idSucursal": 4, "prioridad": 2 }
+  ]},
+
+  { "comuna": "Sierra Gorda", "propia": false, "derivacion": [
+    { "idSucursal": 4, "prioridad": 1 },
+    { "idSucursal": 5, "prioridad": 2 }
+  ]},
+
+  { "comuna": "Taltal", "propia": false, "derivacion": [
+    { "idSucursal": 4, "prioridad": 1 },
+    { "idSucursal": 5, "prioridad": 2 }
+  ]},
+
+  { "comuna": "Tocopilla", "propia": false, "derivacion": [
+    { "idSucursal": 4, "prioridad": 1 },
+    { "idSucursal": 5, "prioridad": 2 }
+  ]},
+
+
+
+  { "comuna": "Alto del Carmen", "propia": false, "derivacion": [
+    { "idSucursal": 9, "prioridad": 1 },
+    { "idSucursal": 8, "prioridad": 2 },
+    { "idSucursal": 7, "prioridad": 3 },
+    { "idSucursal": 6, "prioridad": 4 }
+  ]},
+
+  { "comuna": "Caldera", "propia": false, "derivacion": [
+    { "idSucursal": 8, "prioridad": 1 },
+    { "idSucursal": 7, "prioridad": 2 },
+    { "idSucursal": 6, "prioridad": 3 },
+    { "idSucursal": 9, "prioridad": 4 }
+  ]},
+
+  { "comuna": "Chañaral", "propia": true, "derivacion": [
+    { "idSucursal": 6, "prioridad": 1 },
+    { "idSucursal": 8, "prioridad": 2 },
+    { "idSucursal": 7, "prioridad": 3 },
+    { "idSucursal": 9, "prioridad": 4 }
+  ]},
+
+  { "comuna": "Copiapó", "propia": true, "derivacion": [
+    { "idSucursal": 8, "prioridad": 1 },
+    { "idSucursal": 7, "prioridad": 2 },
+    { "idSucursal": 6, "prioridad": 3 },
+    { "idSucursal": 9, "prioridad": 4 }
+  ]},
+
+  { "comuna": "Diego de Almagro", "propia": false, "derivacion": [
+    { "idSucursal": 6, "prioridad": 1 },
+    { "idSucursal": 8, "prioridad": 2 },
+    { "idSucursal": 7, "prioridad": 3 },
+    { "idSucursal": 9, "prioridad": 4 }
+  ]},
+
+  { "comuna": "Freirina", "propia": false, "derivacion": [
+    { "idSucursal": 9, "prioridad": 1 },
+    { "idSucursal": 8, "prioridad": 2 },
+    { "idSucursal": 7, "prioridad": 3 },
+    { "idSucursal": 6, "prioridad": 4 }
+  ]},
+
+  { "comuna": "Huasco", "propia": false, "derivacion": [
+    { "idSucursal": 9, "prioridad": 1 },
+    { "idSucursal": 8, "prioridad": 2 },
+    { "idSucursal": 7, "prioridad": 3 },
+    { "idSucursal": 6, "prioridad": 4 }
+  ]},
+
+  { "comuna": "Tierra Amarilla", "propia": false, "derivacion": [
+    { "idSucursal": 8, "prioridad": 1 },
+    { "idSucursal": 7, "prioridad": 2 },
+    { "idSucursal": 9, "prioridad": 3 },
+    { "idSucursal": 6, "prioridad": 4 }
+  ]},
+
+  { "comuna": "Vallenar", "propia": true, "derivacion": [
+    { "idSucursal": 9, "prioridad": 1 },
+    { "idSucursal": 8, "prioridad": 2 },
+    { "idSucursal": 7, "prioridad": 3 },
+    { "idSucursal": 6, "prioridad": 4 }
+  ]},
+
+
+
+  { "comuna": "Andacollo", "propia": false, "derivacion": [
+    { "idSucursal": 14, "prioridad": 1 },
+    { "idSucursal": 13, "prioridad": 2 },
+    { "idSucursal": 12, "prioridad": 3 },
+    { "idSucursal": 10, "prioridad": 4 },
+    { "idSucursal": 11, "prioridad": 5 }
+  ]},
+
+  { "comuna": "Canela", "propia": false, "derivacion": [
+    { "idSucursal": 11, "prioridad": 1 },
+    { "idSucursal": 10, "prioridad": 2 },
+    { "idSucursal": 14, "prioridad": 3 },
+    { "idSucursal": 13, "prioridad": 4 },
+    { "idSucursal": 12, "prioridad": 5 }
+  ]},
+
+  { "comuna": "Combarbalá", "propia": false, "derivacion": [
+    { "idSucursal": 10, "prioridad": 1 },
+    { "idSucursal": 11, "prioridad": 2 },
+    { "idSucursal": 14, "prioridad": 3 },
+    { "idSucursal": 13, "prioridad": 4 },
+    { "idSucursal": 12, "prioridad": 5 }
+  ]},
+
+  { "comuna": "Coquimbo", "propia": true, "derivacion": [
+    { "idSucursal": 14, "prioridad": 1 },
+    { "idSucursal": 13, "prioridad": 2 },
+    { "idSucursal": 12, "prioridad": 3 },
+    { "idSucursal": 10, "prioridad": 4 },
+    { "idSucursal": 11, "prioridad": 5 }
+  ]},
+
+  { "comuna": "Illapel", "propia": true, "derivacion": [
+    { "idSucursal": 11, "prioridad": 1 },
+    { "idSucursal": 10, "prioridad": 2 },
+    { "idSucursal": 14, "prioridad": 3 },
+    { "idSucursal": 13, "prioridad": 4 },
+    { "idSucursal": 12, "prioridad": 5 }
+  ]},
+
+  { "comuna": "La Higuera", "propia": false, "derivacion": [
+    { "idSucursal": 12, "prioridad": 1 },
+    { "idSucursal": 14, "prioridad": 2 },
+    { "idSucursal": 13, "prioridad": 3 },
+    { "idSucursal": 10, "prioridad": 4 },
+    { "idSucursal": 11, "prioridad": 5 }
+  ]},
+
+  { "comuna": "La Serena", "propia": true, "derivacion": [
+    { "idSucursal": 12, "prioridad": 1 },
+    { "idSucursal": 14, "prioridad": 2 },
+    { "idSucursal": 13, "prioridad": 3 },
+    { "idSucursal": 10, "prioridad": 4 },
+    { "idSucursal": 11, "prioridad": 5 }
+  ]},
+
+  { "comuna": "Los Vilos", "propia": false, "derivacion": [
+    { "idSucursal": 11, "prioridad": 1 },
+    { "idSucursal": 10, "prioridad": 2 },
+    { "idSucursal": 14, "prioridad": 3 },
+    { "idSucursal": 13, "prioridad": 4 },
+    { "idSucursal": 12, "prioridad": 5 }
+  ]},
+
+  { "comuna": "Monte Patria", "propia": false, "derivacion": [
+    { "idSucursal": 10, "prioridad": 1 },
+    { "idSucursal": 11, "prioridad": 2 },
+    { "idSucursal": 14, "prioridad": 3 },
+    { "idSucursal": 13, "prioridad": 4 },
+    { "idSucursal": 12, "prioridad": 5 }
+  ]},
+
+  { "comuna": "Ovalle", "propia": true, "derivacion": [
+    { "idSucursal": 10, "prioridad": 1 },
+    { "idSucursal": 14, "prioridad": 2 },
+    { "idSucursal": 13, "prioridad": 3 },
+    { "idSucursal": 12, "prioridad": 4 },
+    { "idSucursal": 11, "prioridad": 5 }
+  ]},
+
+  { "comuna": "Paihuano", "propia": false, "derivacion": [
+    { "idSucursal": 12, "prioridad": 1 },
+    { "idSucursal": 14, "prioridad": 2 },
+    { "idSucursal": 13, "prioridad": 3 },
+    { "idSucursal": 10, "prioridad": 4 },
+    { "idSucursal": 11, "prioridad": 5 }
+  ]},
+
+  { "comuna": "Punitaqui", "propia": false, "derivacion": [
+    { "idSucursal": 10, "prioridad": 1 },
+    { "idSucursal": 11, "prioridad": 2 },
+    { "idSucursal": 14, "prioridad": 3 },
+    { "idSucursal": 13, "prioridad": 4 },
+    { "idSucursal": 12, "prioridad": 5 }
+  ]},
+
+  { "comuna": "Río Hurtado", "propia": false, "derivacion": [
+    { "idSucursal": 10, "prioridad": 1 },
+    { "idSucursal": 11, "prioridad": 2 },
+    { "idSucursal": 14, "prioridad": 3 },
+    { "idSucursal": 13, "prioridad": 4 },
+    { "idSucursal": 12, "prioridad": 5 }
+  ]},
+
+  { "comuna": "Salamanca", "propia": false, "derivacion": [
+    { "idSucursal": 11, "prioridad": 1 },
+    { "idSucursal": 10, "prioridad": 2 },
+    { "idSucursal": 14, "prioridad": 3 },
+    { "idSucursal": 13, "prioridad": 4 },
+    { "idSucursal": 12, "prioridad": 5 }
+  ]},
+
+  { "comuna": "Vicuña", "propia": false, "derivacion": [
+    { "idSucursal": 12, "prioridad": 1 },
+    { "idSucursal": 14, "prioridad": 2 },
+    { "idSucursal": 13, "prioridad": 3 },
+    { "idSucursal": 10, "prioridad": 4 },
+    { "idSucursal": 11, "prioridad": 5 }
+  ]},
+
+
+
+  { "comuna": "Algarrobo", "propia": false, "derivacion": [
+    { "idSucursal": 21, "prioridad": 1 },
+    { "idSucursal": 22, "prioridad": 2 },
+    { "idSucursal": 23, "prioridad": 3 },
+    { "idSucursal": 18, "prioridad": 4 },
+    { "idSucursal": 17, "prioridad": 5 }
+  ]},
+
+  { "comuna": "Cabildo", "propia": false, "derivacion": [
+    { "idSucursal": 15, "prioridad": 1 },
+    { "idSucursal": 16, "prioridad": 2 },
+    { "idSucursal": 17, "prioridad": 3 },
+    { "idSucursal": 18, "prioridad": 4 },
+    { "idSucursal": 22, "prioridad": 5 }
+  ]},
+
+  { "comuna": "Calle Larga", "propia": false, "derivacion": [
+    { "idSucursal": 20, "prioridad": 1 },
+    { "idSucursal": 19, "prioridad": 2 },
+    { "idSucursal": 16, "prioridad": 3 },
+    { "idSucursal": 17, "prioridad": 4 },
+    { "idSucursal": 18, "prioridad": 5 }
+  ]},
+
+  { "comuna": "Cartagena", "propia": false, "derivacion": [
+    { "idSucursal": 21, "prioridad": 1 },
+    { "idSucursal": 22, "prioridad": 2 },
+    { "idSucursal": 23, "prioridad": 3 },
+    { "idSucursal": 18, "prioridad": 4 },
+    { "idSucursal": 17, "prioridad": 5 }
+  ]},
+
+  { "comuna": "Casablanca", "propia": false, "derivacion": [
+    { "idSucursal": 22, "prioridad": 1 },
+    { "idSucursal": 23, "prioridad": 2 },
+    { "idSucursal": 18, "prioridad": 3 },
+    { "idSucursal": 17, "prioridad": 4 },
+    { "idSucursal": 16, "prioridad": 5 }
+  ]},
+
+  { "comuna": "Catemu", "propia": false, "derivacion": [
+    { "idSucursal": 19, "prioridad": 1 },
+    { "idSucursal": 20, "prioridad": 2 },
+    { "idSucursal": 16, "prioridad": 3 },
+    { "idSucursal": 17, "prioridad": 4 },
+    { "idSucursal": 18, "prioridad": 5 }
+  ]},
+
+  { "comuna": "Concón", "propia": false, "derivacion": [
+    { "idSucursal": 23, "prioridad": 1 },
+    { "idSucursal": 22, "prioridad": 2 },
+    { "idSucursal": 18, "prioridad": 3 },
+    { "idSucursal": 17, "prioridad": 4 },
+    { "idSucursal": 16, "prioridad": 5 }
+  ]},
+
+  { "comuna": "El Quisco", "propia": false, "derivacion": [
+    { "idSucursal": 21, "prioridad": 1 },
+    { "idSucursal": 22, "prioridad": 2 },
+    { "idSucursal": 23, "prioridad": 3 },
+    { "idSucursal": 18, "prioridad": 4 },
+    { "idSucursal": 17, "prioridad": 5 }
+  ]},
+
+  { "comuna": "El Tabo", "propia": false, "derivacion": [
+    { "idSucursal": 21, "prioridad": 1 },
+    { "idSucursal": 22, "prioridad": 2 },
+    { "idSucursal": 23, "prioridad": 3 },
+    { "idSucursal": 18, "prioridad": 4 },
+    { "idSucursal": 17, "prioridad": 5 }
+  ]},
+
+  { "comuna": "Hijuelas", "propia": false, "derivacion": [
+    { "idSucursal": 16, "prioridad": 1 },
+    { "idSucursal": 17, "prioridad": 2 },
+    { "idSucursal": 18, "prioridad": 3 },
+    { "idSucursal": 22, "prioridad": 4 },
+    { "idSucursal": 23, "prioridad": 5 }
+  ]},
+
+  { "comuna": "La Calera", "propia": false, "derivacion": [
+    { "idSucursal": 16, "prioridad": 1 },
+    { "idSucursal": 17, "prioridad": 2 },
+    { "idSucursal": 18, "prioridad": 3 },
+    { "idSucursal": 22, "prioridad": 4 },
+    { "idSucursal": 23, "prioridad": 5 }
+  ]},
+
+  { "comuna": "La Cruz", "propia": false, "derivacion": [
+    { "idSucursal": 16, "prioridad": 1 },
+    { "idSucursal": 17, "prioridad": 2 },
+    { "idSucursal": 18, "prioridad": 3 },
+    { "idSucursal": 22, "prioridad": 4 },
+    { "idSucursal": 23, "prioridad": 5 }
+  ]},
+
+  { "comuna": "La Ligua", "propia": true, "derivacion": [
+    { "idSucursal": 15, "prioridad": 1 },
+    { "idSucursal": 16, "prioridad": 2 },
+    { "idSucursal": 17, "prioridad": 3 },
+    { "idSucursal": 18, "prioridad": 4 },
+    { "idSucursal": 22, "prioridad": 5 }
+  ]},
+
+  { "comuna": "Limache", "propia": true, "derivacion": [
+    { "idSucursal": 17, "prioridad": 1 },
+    { "idSucursal": 18, "prioridad": 2 },
+    { "idSucursal": 16, "prioridad": 3 },
+    { "idSucursal": 22, "prioridad": 4 },
+    { "idSucursal": 23, "prioridad": 5 }
+  ]},
+
+  { "comuna": "Llaillay", "propia": false, "derivacion": [
+    { "idSucursal": 19, "prioridad": 1 },
+    { "idSucursal": 20, "prioridad": 2 },
+    { "idSucursal": 16, "prioridad": 3 },
+    { "idSucursal": 17, "prioridad": 4 },
+    { "idSucursal": 18, "prioridad": 5 }
+  ]},
+
+  { "comuna": "Los Andes", "propia": true, "derivacion": [
+    { "idSucursal": 20, "prioridad": 1 },
+    { "idSucursal": 19, "prioridad": 2 },
+    { "idSucursal": 16, "prioridad": 3 },
+    { "idSucursal": 17, "prioridad": 4 },
+    { "idSucursal": 18, "prioridad": 5 }
+  ]},
+
+  { "comuna": "Nogales", "propia": false, "derivacion": [
+    { "idSucursal": 16, "prioridad": 1 },
+    { "idSucursal": 17, "prioridad": 2 },
+    { "idSucursal": 18, "prioridad": 3 },
+    { "idSucursal": 22, "prioridad": 4 },
+    { "idSucursal": 23, "prioridad": 5 }
+  ]},
+
+  { "comuna": "Olmué", "propia": false, "derivacion": [
+    { "idSucursal": 17, "prioridad": 1 },
+    { "idSucursal": 18, "prioridad": 2 },
+    { "idSucursal": 16, "prioridad": 3 },
+    { "idSucursal": 22, "prioridad": 4 },
+    { "idSucursal": 23, "prioridad": 5 }
+  ]},
+
+  { "comuna": "Panquehue", "propia": false, "derivacion": [
+    { "idSucursal": 19, "prioridad": 1 },
+    { "idSucursal": 20, "prioridad": 2 },
+    { "idSucursal": 16, "prioridad": 3 },
+    { "idSucursal": 17, "prioridad": 4 },
+    { "idSucursal": 18, "prioridad": 5 }
+  ]},
+
+  { "comuna": "Papudo", "propia": false, "derivacion": [
+    { "idSucursal": 15, "prioridad": 1 },
+    { "idSucursal": 16, "prioridad": 2 },
+    { "idSucursal": 17, "prioridad": 3 },
+    { "idSucursal": 18, "prioridad": 4 },
+    { "idSucursal": 22, "prioridad": 5 }
+  ]},
+
+  { "comuna": "Petorca", "propia": false, "derivacion": [
+    { "idSucursal": 15, "prioridad": 1 },
+    { "idSucursal": 16, "prioridad": 2 },
+    { "idSucursal": 17, "prioridad": 3 },
+    { "idSucursal": 18, "prioridad": 4 },
+    { "idSucursal": 22, "prioridad": 5 }
+  ]},
+
+  { "comuna": "Puchuncaví", "propia": false, "derivacion": [
+    { "idSucursal": 23, "prioridad": 1 },
+    { "idSucursal": 22, "prioridad": 2 },
+    { "idSucursal": 18, "prioridad": 3 },
+    { "idSucursal": 17, "prioridad": 4 },
+    { "idSucursal": 16, "prioridad": 5 }
+  ]},
+
+  { "comuna": "Putaendo", "propia": false, "derivacion": [
+    { "idSucursal": 19, "prioridad": 1 },
+    { "idSucursal": 20, "prioridad": 2 },
+    { "idSucursal": 16, "prioridad": 3 },
+    { "idSucursal": 17, "prioridad": 4 },
+    { "idSucursal": 18, "prioridad": 5 }
+  ]},
+
+  { "comuna": "Quillota", "propia": true, "derivacion": [
+    { "idSucursal": 16, "prioridad": 1 },
+    { "idSucursal": 17, "prioridad": 2 },
+    { "idSucursal": 18, "prioridad": 3 },
+    { "idSucursal": 22, "prioridad": 4 },
+    { "idSucursal": 23, "prioridad": 5 }
+  ]},
+
+  { "comuna": "Quilpué", "propia": false, "derivacion": [
+    { "idSucursal": 18, "prioridad": 1 },
+    { "idSucursal": 17, "prioridad": 2 },
+    { "idSucursal": 23, "prioridad": 3 },
+    { "idSucursal": 22, "prioridad": 4 },
+    { "idSucursal": 16, "prioridad": 5 }
+  ]},
+
+  { "comuna": "Quintero", "propia": false, "derivacion": [
+    { "idSucursal": 23, "prioridad": 1 },
+    { "idSucursal": 22, "prioridad": 2 },
+    { "idSucursal": 18, "prioridad": 3 },
+    { "idSucursal": 17, "prioridad": 4 },
+    { "idSucursal": 16, "prioridad": 5 }
+  ]},
+
+  { "comuna": "Rinconada", "propia": false, "derivacion": [
+    { "idSucursal": 20, "prioridad": 1 },
+    { "idSucursal": 19, "prioridad": 2 },
+    { "idSucursal": 16, "prioridad": 3 },
+    { "idSucursal": 17, "prioridad": 4 },
+    { "idSucursal": 18, "prioridad": 5 }
+  ]},
+
+  { "comuna": "San Antonio", "propia": true, "derivacion": [
+    { "idSucursal": 21, "prioridad": 1 },
+    { "idSucursal": 22, "prioridad": 2 },
+    { "idSucursal": 23, "prioridad": 3 },
+    { "idSucursal": 18, "prioridad": 4 },
+    { "idSucursal": 17, "prioridad": 5 }
+  ]},
+
+  { "comuna": "San Esteban", "propia": false, "derivacion": [
+    { "idSucursal": 20, "prioridad": 1 },
+    { "idSucursal": 19, "prioridad": 2 },
+    { "idSucursal": 16, "prioridad": 3 },
+    { "idSucursal": 17, "prioridad": 4 },
+    { "idSucursal": 18, "prioridad": 5 }
+  ]},
+
+  { "comuna": "San Felipe", "propia": true, "derivacion": [
+    { "idSucursal": 19, "prioridad": 1 },
+    { "idSucursal": 20, "prioridad": 2 },
+    { "idSucursal": 16, "prioridad": 3 },
+    { "idSucursal": 17, "prioridad": 4 },
+    { "idSucursal": 18, "prioridad": 5 }
+  ]},
+
+  { "comuna": "Santa María", "propia": false, "derivacion": [
+    { "idSucursal": 19, "prioridad": 1 },
+    { "idSucursal": 20, "prioridad": 2 },
+    { "idSucursal": 16, "prioridad": 3 },
+    { "idSucursal": 17, "prioridad": 4 },
+    { "idSucursal": 18, "prioridad": 5 }
+  ]},
+
+  { "comuna": "Santo Domingo", "propia": false, "derivacion": [
+    { "idSucursal": 21, "prioridad": 1 },
+    { "idSucursal": 22, "prioridad": 2 },
+    { "idSucursal": 23, "prioridad": 3 },
+    { "idSucursal": 18, "prioridad": 4 },
+    { "idSucursal": 17, "prioridad": 5 }
+  ]},
+
+  { "comuna": "Valparaíso", "propia": true, "derivacion": [
+    { "idSucursal": 22, "prioridad": 1 },
+    { "idSucursal": 23, "prioridad": 2 },
+    { "idSucursal": 18, "prioridad": 3 },
+    { "idSucursal": 17, "prioridad": 4 },
+    { "idSucursal": 16, "prioridad": 5 }
+  ]},
+
+  { "comuna": "Villa Alemana", "propia": true, "derivacion": [
+    { "idSucursal": 18, "prioridad": 1 },
+    { "idSucursal": 17, "prioridad": 2 },
+    { "idSucursal": 23, "prioridad": 3 },
+    { "idSucursal": 22, "prioridad": 4 },
+    { "idSucursal": 16, "prioridad": 5 }
+  ]},
+
+  { "comuna": "Viña del Mar", "propia": true, "derivacion": [
+    { "idSucursal": 23, "prioridad": 1 },
+    { "idSucursal": 22, "prioridad": 2 },
+    { "idSucursal": 18, "prioridad": 3 },
+    { "idSucursal": 17, "prioridad": 4 },
+    { "idSucursal": 16, "prioridad": 5 }
+  ]},
+
+  { "comuna": "Zapallar", "propia": false, "derivacion": [
+    { "idSucursal": 15, "prioridad": 1 },
+    { "idSucursal": 16, "prioridad": 2 },
+    { "idSucursal": 17, "prioridad": 3 },
+    { "idSucursal": 18, "prioridad": 4 },
+    { "idSucursal": 22, "prioridad": 5 }
+  ]},
+
+
+
+  { "comuna": "Chépica", "propia": false, "derivacion": [
+    { "idSucursal": 25, "prioridad": 1 },
+    { "idSucursal": 24, "prioridad": 2 }
+  ]},
+
+  { "comuna": "Chimbarongo", "propia": false, "derivacion": [
+    { "idSucursal": 25, "prioridad": 1 },
+    { "idSucursal": 24, "prioridad": 2 }
+  ]},
+
+  { "comuna": "Codegua", "propia": false, "derivacion": [
+    { "idSucursal": 24, "prioridad": 1 },
+    { "idSucursal": 25, "prioridad": 2 }
+  ]},
+
+  { "comuna": "Coinco", "propia": false, "derivacion": [
+    { "idSucursal": 24, "prioridad": 1 },
+    { "idSucursal": 25, "prioridad": 2 }
+  ]},
+
+  { "comuna": "Coltauco", "propia": false, "derivacion": [
+    { "idSucursal": 24, "prioridad": 1 },
+    { "idSucursal": 25, "prioridad": 2 }
+  ]},
+
+  { "comuna": "Doñihue", "propia": false, "derivacion": [
+    { "idSucursal": 24, "prioridad": 1 },
+    { "idSucursal": 25, "prioridad": 2 }
+  ]},
+
+  { "comuna": "Graneros", "propia": false, "derivacion": [
+    { "idSucursal": 24, "prioridad": 1 },
+    { "idSucursal": 25, "prioridad": 2 }
+  ]},
+
+  { "comuna": "La Estrella", "propia": false, "derivacion": [
+    { "idSucursal": 25, "prioridad": 1 },
+    { "idSucursal": 24, "prioridad": 2 }
+  ]},
+
+  { "comuna": "Las Cabras", "propia": false, "derivacion": [
+    { "idSucursal": 24, "prioridad": 1 },
+    { "idSucursal": 25, "prioridad": 2 }
+  ]},
+
+  { "comuna": "Litueche", "propia": false, "derivacion": [
+    { "idSucursal": 25, "prioridad": 1 },
+    { "idSucursal": 24, "prioridad": 2 }
+  ]},
+
+  { "comuna": "Lolol", "propia": false, "derivacion": [
+    { "idSucursal": 25, "prioridad": 1 },
+    { "idSucursal": 24, "prioridad": 2 }
+  ]},
+
+  { "comuna": "Machalí", "propia": false, "derivacion": [
+    { "idSucursal": 24, "prioridad": 1 },
+    { "idSucursal": 25, "prioridad": 2 }
+  ]},
+
+  { "comuna": "Malloa", "propia": false, "derivacion": [
+    { "idSucursal": 24, "prioridad": 1 },
+    { "idSucursal": 25, "prioridad": 2 }
+  ]},
+
+  { "comuna": "Marchihue", "propia": false, "derivacion": [
+    { "idSucursal": 25, "prioridad": 1 },
+    { "idSucursal": 24, "prioridad": 2 }
+  ]},
+
+  { "comuna": "Mostazal", "propia": false, "derivacion": [
+    { "idSucursal": 24, "prioridad": 1 },
+    { "idSucursal": 25, "prioridad": 2 }
+  ]},
+
+  { "comuna": "Nancagua", "propia": false, "derivacion": [
+    { "idSucursal": 25, "prioridad": 1 },
+    { "idSucursal": 24, "prioridad": 2 }
+  ]},
+
+  { "comuna": "Navidad", "propia": false, "derivacion": [
+    { "idSucursal": 25, "prioridad": 1 },
+    { "idSucursal": 24, "prioridad": 2 }
+  ]},
+
+  { "comuna": "Olivar", "propia": false, "derivacion": [
+    { "idSucursal": 24, "prioridad": 1 },
+    { "idSucursal": 25, "prioridad": 2 }
+  ]},
+
+  { "comuna": "Palmilla", "propia": false, "derivacion": [
+    { "idSucursal": 25, "prioridad": 1 },
+    { "idSucursal": 24, "prioridad": 2 }
+  ]},
+
+  { "comuna": "Paredones", "propia": false, "derivacion": [
+    { "idSucursal": 25, "prioridad": 1 },
+    { "idSucursal": 24, "prioridad": 2 }
+  ]},
+
+  { "comuna": "Peralillo", "propia": false, "derivacion": [
+    { "idSucursal": 25, "prioridad": 1 },
+    { "idSucursal": 24, "prioridad": 2 }
+  ]},
+
+  { "comuna": "Peumo", "propia": false, "derivacion": [
+    { "idSucursal": 24, "prioridad": 1 },
+    { "idSucursal": 25, "prioridad": 2 }
+  ]},
+
+  { "comuna": "Pichidegua", "propia": false, "derivacion": [
+    { "idSucursal": 24, "prioridad": 1 },
+    { "idSucursal": 25, "prioridad": 2 }
+  ]},
+
+  { "comuna": "Pichilemu", "propia": false, "derivacion": [
+    { "idSucursal": 25, "prioridad": 1 },
+    { "idSucursal": 24, "prioridad": 2 }
+  ]},
+
+  { "comuna": "Placilla", "propia": false, "derivacion": [
+    { "idSucursal": 25, "prioridad": 1 },
+    { "idSucursal": 24, "prioridad": 2 }
+  ]},
+
+  { "comuna": "Pumanque", "propia": false, "derivacion": [
+    { "idSucursal": 25, "prioridad": 1 },
+    { "idSucursal": 24, "prioridad": 2 }
+  ]},
+
+  { "comuna": "Quinta de Tilcoco", "propia": false, "derivacion": [
+    { "idSucursal": 24, "prioridad": 1 },
+    { "idSucursal": 25, "prioridad": 2 }
+  ]},
+
+  { "comuna": "Rancagua", "propia": true, "derivacion": [
+    { "idSucursal": 24, "prioridad": 1 },
+    { "idSucursal": 25, "prioridad": 2 }
+  ]},
+
+  { "comuna": "Rengo", "propia": false, "derivacion": [
+    { "idSucursal": 24, "prioridad": 1 },
+    { "idSucursal": 25, "prioridad": 2 }
+  ]},
+
+  { "comuna": "Requínoa", "propia": false, "derivacion": [
+    { "idSucursal": 24, "prioridad": 1 },
+    { "idSucursal": 25, "prioridad": 2 }
+  ]},
+
+  { "comuna": "San Fernando", "propia": true, "derivacion": [
+    { "idSucursal": 25, "prioridad": 1 },
+    { "idSucursal": 24, "prioridad": 2 }
+  ]},
+
+  { "comuna": "Santa Cruz", "propia": false, "derivacion": [
+    { "idSucursal": 25, "prioridad": 1 },
+    { "idSucursal": 24, "prioridad": 2 }
+  ]},
+
+  { "comuna": "San Vicente", "propia": false, "derivacion": [
+    { "idSucursal": 24, "prioridad": 1 },
+    { "idSucursal": 25, "prioridad": 2 }
+  ]},
+  
+
+  
+  { "comuna": "Cauquenes", "propia": false, "derivacion": [
+    { "idSucursal": 27, "prioridad": 1 },
+    { "idSucursal": 31, "prioridad": 2 },
+    { "idSucursal": 29, "prioridad": 3 },
+    { "idSucursal": 28, "prioridad": 4 }
+  ]},
+
+  { "comuna": "Chanco", "propia": false, "derivacion": [
+    { "idSucursal": 27, "prioridad": 1 },
+    { "idSucursal": 31, "prioridad": 2 },
+    { "idSucursal": 29, "prioridad": 3 },
+    { "idSucursal": 28, "prioridad": 4 }
+  ]},
+
+  { "comuna": "Colbún", "propia": false, "derivacion": [
+    { "idSucursal": 27, "prioridad": 1 },
+    { "idSucursal": 31, "prioridad": 2 },
+    { "idSucursal": 29, "prioridad": 3 },
+    { "idSucursal": 28, "prioridad": 4 }
+  ]},
+
+  { "comuna": "Constitución", "propia": false, "derivacion": [
+    { "idSucursal": 29, "prioridad": 1 },
+    { "idSucursal": 28, "prioridad": 2 },
+    { "idSucursal": 27, "prioridad": 3 },
+    { "idSucursal": 26, "prioridad": 4 }
+  ]},
+
+  { "comuna": "Curepto", "propia": false, "derivacion": [
+    { "idSucursal": 29, "prioridad": 1 },
+    { "idSucursal": 28, "prioridad": 2 },
+    { "idSucursal": 26, "prioridad": 3 }
+  ]},
+
+  { "comuna": "Curicó", "propia": true, "derivacion": [
+    { "idSucursal": 26, "prioridad": 1 },
+    { "idSucursal": 29, "prioridad": 2 },
+    { "idSucursal": 28, "prioridad": 3 },
+    { "idSucursal": 27, "prioridad": 4 }
+  ]},
+
+  { "comuna": "Empedrado", "propia": false, "derivacion": [
+    { "idSucursal": 29, "prioridad": 1 },
+    { "idSucursal": 28, "prioridad": 2 },
+    { "idSucursal": 27, "prioridad": 3 }
+  ]},
+
+  { "comuna": "Hualañé", "propia": false, "derivacion": [
+    { "idSucursal": 26, "prioridad": 1 },
+    { "idSucursal": 29, "prioridad": 2 },
+    { "idSucursal": 28, "prioridad": 3 }
+  ]},
+
+  { "comuna": "Licantén", "propia": false, "derivacion": [
+    { "idSucursal": 26, "prioridad": 1 },
+    { "idSucursal": 29, "prioridad": 2 },
+    { "idSucursal": 28, "prioridad": 3 }
+  ]},
+
+  { "comuna": "Linares", "propia": true, "derivacion": [
+    { "idSucursal": 27, "prioridad": 1 },
+    { "idSucursal": 31, "prioridad": 2 },
+    { "idSucursal": 29, "prioridad": 3 },
+    { "idSucursal": 28, "prioridad": 4 }
+  ]},
+
+  { "comuna": "Longaví", "propia": false, "derivacion": [
+    { "idSucursal": 27, "prioridad": 1 },
+    { "idSucursal": 31, "prioridad": 2 },
+    { "idSucursal": 29, "prioridad": 3 }
+  ]},
+
+  { "comuna": "Maule", "propia": false, "derivacion": [
+    { "idSucursal": 29, "prioridad": 1 },
+    { "idSucursal": 28, "prioridad": 2 },
+    { "idSucursal": 27, "prioridad": 3 }
+  ]},
+
+  { "comuna": "Molina", "propia": false, "derivacion": [
+    { "idSucursal": 26, "prioridad": 1 },
+    { "idSucursal": 29, "prioridad": 2 },
+    { "idSucursal": 28, "prioridad": 3 }
+  ]},
+
+  { "comuna": "Parral", "propia": true, "derivacion": [
+    { "idSucursal": 31, "prioridad": 1 },
+    { "idSucursal": 27, "prioridad": 2 },
+    { "idSucursal": 29, "prioridad": 3 }
+  ]},
+
+  { "comuna": "Pelarco", "propia": false, "derivacion": [
+    { "idSucursal": 29, "prioridad": 1 },
+    { "idSucursal": 28, "prioridad": 2 },
+    { "idSucursal": 27, "prioridad": 3 }
+  ]},
+
+  { "comuna": "Pelluhue", "propia": false, "derivacion": [
+    { "idSucursal": 27, "prioridad": 1 },
+    { "idSucursal": 31, "prioridad": 2 }
+  ]},
+
+  { "comuna": "Pencahue", "propia": false, "derivacion": [
+    { "idSucursal": 29, "prioridad": 1 },
+    { "idSucursal": 28, "prioridad": 2 },
+    { "idSucursal": 27, "prioridad": 3 }
+  ]},
+
+  { "comuna": "Rauco", "propia": false, "derivacion": [
+    { "idSucursal": 26, "prioridad": 1 },
+    { "idSucursal": 29, "prioridad": 2 },
+    { "idSucursal": 28, "prioridad": 3 }
+  ]},
+
+  { "comuna": "Retiro", "propia": false, "derivacion": [
+    { "idSucursal": 31, "prioridad": 1 },
+    { "idSucursal": 27, "prioridad": 2 }
+  ]},
+
+  { "comuna": "Río Claro", "propia": false, "derivacion": [
+    { "idSucursal": 29, "prioridad": 1 },
+    { "idSucursal": 28, "prioridad": 2 },
+    { "idSucursal": 27, "prioridad": 3 }
+  ]},
+
+  { "comuna": "Romeral", "propia": false, "derivacion": [
+    { "idSucursal": 26, "prioridad": 1 },
+    { "idSucursal": 29, "prioridad": 2 },
+    { "idSucursal": 28, "prioridad": 3 }
+  ]},
+
+  { "comuna": "Sagrada Familia", "propia": false, "derivacion": [
+    { "idSucursal": 26, "prioridad": 1 },
+    { "idSucursal": 29, "prioridad": 2 },
+    { "idSucursal": 28, "prioridad": 3 }
+  ]},
+
+  { "comuna": "San Clemente", "propia": false, "derivacion": [
+    { "idSucursal": 29, "prioridad": 1 },
+    { "idSucursal": 28, "prioridad": 2 },
+    { "idSucursal": 27, "prioridad": 3 }
+  ]},
+
+  { "comuna": "San Javier", "propia": false, "derivacion": [
+    { "idSucursal": 27, "prioridad": 1 },
+    { "idSucursal": 29, "prioridad": 2 },
+    { "idSucursal": 28, "prioridad": 3 }
+  ]},
+
+  { "comuna": "San Rafael", "propia": false, "derivacion": [
+    { "idSucursal": 29, "prioridad": 1 },
+    { "idSucursal": 28, "prioridad": 2 },
+    { "idSucursal": 27, "prioridad": 3 }
+  ]},
+
+  { "comuna": "Talca", "propia": true, "derivacion": [
+    { "idSucursal": 29, "prioridad": 1 },
+    { "idSucursal": 28, "prioridad": 2 },
+    { "idSucursal": 27, "prioridad": 3 },
+    { "idSucursal": 26, "prioridad": 4 }
+  ]},
+
+  { "comuna": "Teno", "propia": false, "derivacion": [
+    { "idSucursal": 26, "prioridad": 1 },
+    { "idSucursal": 29, "prioridad": 2 },
+    { "idSucursal": 28, "prioridad": 3 }
+  ]},
+
+  { "comuna": "Vichuquén", "propia": false, "derivacion": [
+    { "idSucursal": 26, "prioridad": 1 },
+    { "idSucursal": 29, "prioridad": 2 },
+    { "idSucursal": 28, "prioridad": 3 }
+  ]},
+
+  { "comuna": "Villa Alegre", "propia": false, "derivacion": [
+    { "idSucursal": 27, "prioridad": 1 },
+    { "idSucursal": 31, "prioridad": 2 }
+  ]},
+
+  { "comuna": "Yerbas Buenas", "propia": false, "derivacion": [
+    { "idSucursal": 27, "prioridad": 1 },
+    { "idSucursal": 31, "prioridad": 2 },
+    { "idSucursal": 29, "prioridad": 3 }
+  ]},
+
+
+  
+  { "comuna": "Alto Biobío", "propia": false,
+    "derivacion": [{ "idSucursal": 33, "prioridad": 1 }] },
+
+  { "comuna": "Antuco", "propia": false,
+    "derivacion": [{ "idSucursal": 33, "prioridad": 1 }] },
+
+  { "comuna": "Arauco", "propia": false,
+    "derivacion": [
+      { "idSucursal": 38, "prioridad": 1 },
+      { "idSucursal": 36, "prioridad": 2 }
+    ] },
+
+  { "comuna": "Cabrero", "propia": false,
+    "derivacion": [{ "idSucursal": 33, "prioridad": 1 }] },
+
+  { "comuna": "Cañete", "propia": true },
+
+  { "comuna": "Chiguayante", "propia": false,
+    "derivacion": [
+      { "idSucursal": 35, "prioridad": 1 },
+      { "idSucursal": 37, "prioridad": 2 }
+    ] },
+
+  { "comuna": "Concepción", "propia": true },
+
+  { "comuna": "Contulmo", "propia": false,
+    "derivacion": [
+      { "idSucursal": 38, "prioridad": 1 },
+      { "idSucursal": 36, "prioridad": 2 }
+    ] },
+
+  { "comuna": "Coronel", "propia": false,
+    "derivacion": [
+      { "idSucursal": 36, "prioridad": 1 },
+      { "idSucursal": 35, "prioridad": 2 }
+    ] },
+
+  { "comuna": "Curanilahue", "propia": false,
+    "derivacion": [
+      { "idSucursal": 38, "prioridad": 1 },
+      { "idSucursal": 36, "prioridad": 2 }
+    ] },
+
+  { "comuna": "Florida", "propia": false,
+    "derivacion": [{ "idSucursal": 35, "prioridad": 1 }] },
+
+  { "comuna": "Hualpén", "propia": false,
+    "derivacion": [
+      { "idSucursal": 37, "prioridad": 1 },
+      { "idSucursal": 35, "prioridad": 2 }
+    ] },
+
+  { "comuna": "Hualqui", "propia": false,
+    "derivacion": [{ "idSucursal": 35, "prioridad": 1 }] },
+
+  { "comuna": "Laja", "propia": false,
+    "derivacion": [{ "idSucursal": 33, "prioridad": 1 }] },
+
+  { "comuna": "Lebu", "propia": false,
+    "derivacion": [{ "idSucursal": 38, "prioridad": 1 }] },
+
+  { "comuna": "Los Álamos", "propia": false,
+    "derivacion": [
+      { "idSucursal": 38, "prioridad": 1 },
+      { "idSucursal": 36, "prioridad": 2 }
+    ] },
+
+  { "comuna": "Los Ángeles", "propia": true },
+
+  { "comuna": "Lota", "propia": true },
+
+  { "comuna": "Mulchén", "propia": false,
+    "derivacion": [{ "idSucursal": 33, "prioridad": 1 }] },
+
+  { "comuna": "Nacimiento", "propia": false,
+    "derivacion": [{ "idSucursal": 33, "prioridad": 1 }] },
+
+  { "comuna": "Negrete", "propia": false,
+    "derivacion": [{ "idSucursal": 33, "prioridad": 1 }] },
+
+  { "comuna": "Penco", "propia": false,
+    "derivacion": [
+      { "idSucursal": 35, "prioridad": 1 },
+      { "idSucursal": 37, "prioridad": 2 }
+    ] },
+
+  { "comuna": "Quilaco", "propia": false,
+    "derivacion": [{ "idSucursal": 33, "prioridad": 1 }] },
+
+  { "comuna": "Quilleco", "propia": false,
+    "derivacion": [{ "idSucursal": 33, "prioridad": 1 }] },
+
+  { "comuna": "San Pedro de la Paz", "propia": false,
+    "derivacion": [
+      { "idSucursal": 35, "prioridad": 1 },
+      { "idSucursal": 37, "prioridad": 2 }
+    ] },
+
+  { "comuna": "San Rosendo", "propia": false,
+    "derivacion": [{ "idSucursal": 33, "prioridad": 1 }] },
+
+  { "comuna": "Santa Bárbara", "propia": false,
+    "derivacion": [{ "idSucursal": 33, "prioridad": 1 }] },
+
+  { "comuna": "Santa Juana", "propia": false,
+    "derivacion": [{ "idSucursal": 35, "prioridad": 1 }] },
+
+  { "comuna": "Talcahuano", "propia": true },
+
+  { "comuna": "Tirúa", "propia": false,
+    "derivacion": [{ "idSucursal": 38, "prioridad": 1 }] },
+
+  { "comuna": "Tomé", "propia": false,
+    "derivacion": [
+      { "idSucursal": 35, "prioridad": 1 },
+      { "idSucursal": 37, "prioridad": 2 }
+    ] },
+
+  { "comuna": "Tucapel", "propia": false,
+    "derivacion": [{ "idSucursal": 33, "prioridad": 1 }] },
+
+  { "comuna": "Yumbel", "propia": false,
+    "derivacion": [{ "idSucursal": 33, "prioridad": 1 }] },
+
+  { "comuna": "Angol", "propia": true },
+
+  { "comuna": "Carahue", "propia": false,
+    "derivacion": [
+      { "idSucursal": 40, "prioridad": 1 }
+    ] },
+
+  { "comuna": "Cholchol", "propia": false,
+    "derivacion": [
+      { "idSucursal": 40, "prioridad": 1 }
+    ] },
+
+  { "comuna": "Collipulli", "propia": false,
+    "derivacion": [
+      { "idSucursal": 34, "prioridad": 1 },
+      { "idSucursal": 39, "prioridad": 2 }
+    ] },
+
+  { "comuna": "Cunco", "propia": false,
+    "derivacion": [
+      { "idSucursal": 40, "prioridad": 1 },
+      { "idSucursal": 41, "prioridad": 2 }
+    ] },
+
+  { "comuna": "Curacautín", "propia": false,
+    "derivacion": [
+      { "idSucursal": 39, "prioridad": 1 },
+      { "idSucursal": 34, "prioridad": 2 }
+    ] },
+
+  { "comuna": "Curarrehue", "propia": false,
+    "derivacion": [
+      { "idSucursal": 41, "prioridad": 1 }
+    ] },
+
+  { "comuna": "Ercilla", "propia": false,
+    "derivacion": [
+      { "idSucursal": 34, "prioridad": 1 },
+      { "idSucursal": 39, "prioridad": 2 }
+    ] },
+
+  { "comuna": "Freire", "propia": false,
+    "derivacion": [
+      { "idSucursal": 40, "prioridad": 1 }
+    ] },
+
+  { "comuna": "Galvarino", "propia": false,
+    "derivacion": [
+      { "idSucursal": 40, "prioridad": 1 }
+    ] },
+
+  { "comuna": "Gorbea", "propia": false,
+    "derivacion": [
+      { "idSucursal": 40, "prioridad": 1 }
+    ] },
+
+  { "comuna": "Lautaro", "propia": false,
+    "derivacion": [
+      { "idSucursal": 40, "prioridad": 1 },
+      { "idSucursal": 39, "prioridad": 2 }
+    ] },
+
+  { "comuna": "Loncoche", "propia": false,
+    "derivacion": [
+      { "idSucursal": 40, "prioridad": 1 }
+    ] },
+
+  { "comuna": "Lonquimay", "propia": false,
+    "derivacion": [
+      { "idSucursal": 39, "prioridad": 1 }
+    ] },
+
+  { "comuna": "Los Sauces", "propia": false,
+    "derivacion": [
+      { "idSucursal": 34, "prioridad": 1 }
+    ] },
+
+  { "comuna": "Lumaco", "propia": false,
+    "derivacion": [
+      { "idSucursal": 34, "prioridad": 1 }
+    ] },
+
+  { "comuna": "Melipeuco", "propia": false,
+    "derivacion": [
+      { "idSucursal": 41, "prioridad": 1 },
+      { "idSucursal": 40, "prioridad": 2 }
+    ] },
+
+  { "comuna": "Nueva Imperial", "propia": false,
+    "derivacion": [
+      { "idSucursal": 40, "prioridad": 1 }
+    ] },
+
+  { "comuna": "Padre Las Casas", "propia": false,
+    "derivacion": [
+      { "idSucursal": 40, "prioridad": 1 }
+    ] },
+
+  { "comuna": "Perquenco", "propia": false,
+    "derivacion": [
+      { "idSucursal": 40, "prioridad": 1 }
+    ] },
+
+  { "comuna": "Pitrufquén", "propia": false,
+    "derivacion": [
+      { "idSucursal": 40, "prioridad": 1 }
+    ] },
+
+  { "comuna": "Pucón", "propia": false,
+    "derivacion": [
+      { "idSucursal": 41, "prioridad": 1 },
+      { "idSucursal": 40, "prioridad": 2 }
+    ] },
+
+  { "comuna": "Purén", "propia": false,
+    "derivacion": [
+      { "idSucursal": 34, "prioridad": 1 }
+    ] },
+
+  { "comuna": "Renaico", "propia": false,
+    "derivacion": [
+      { "idSucursal": 34, "prioridad": 1 }
+    ] },
+
+  { "comuna": "Saavedra", "propia": false,
+    "derivacion": [
+      { "idSucursal": 40, "prioridad": 1 }
+    ] },
+
+  { "comuna": "Temuco", "propia": true },
+
+  { "comuna": "Teodoro Schmidt", "propia": false,
+    "derivacion": [
+      { "idSucursal": 40, "prioridad": 1 }
+    ] },
+
+  { "comuna": "Toltén", "propia": false,
+    "derivacion": [
+      { "idSucursal": 41, "prioridad": 1 }
+    ] },
+
+  { "comuna": "Traiguén", "propia": false,
+    "derivacion": [
+      { "idSucursal": 39, "prioridad": 1 },
+      { "idSucursal": 34, "prioridad": 2 }
+    ] },
+
+  { "comuna": "Victoria", "propia": true },
+
+  { "comuna": "Vilcún", "propia": false,
+    "derivacion": [
+      { "idSucursal": 40, "prioridad": 1 }
+    ] },
+
+  { "comuna": "Villarrica", "propia": true },
+
+
+  
+  { "comuna": "Ancud", "propia": true },
+
+  { "comuna": "Calbuco", "propia": false,
+    "derivacion": [
+      { "idSucursal": 46, "prioridad": 1 },
+      { "idSucursal": 47, "prioridad": 2 }
+    ] },
+
+  { "comuna": "Castro", "propia": true },
+
+  { "comuna": "Chaitén", "propia": false,
+    "derivacion": [
+      { "idSucursal": 46, "prioridad": 1 },
+      { "idSucursal": 43, "prioridad": 2 }
+    ] },
+
+  { "comuna": "Chonchi", "propia": false,
+    "derivacion": [
+      { "idSucursal": 45, "prioridad": 1 },
+      { "idSucursal": 44, "prioridad": 2 }
+    ] },
+
+  { "comuna": "Cochamó", "propia": false,
+    "derivacion": [
+      { "idSucursal": 46, "prioridad": 1 }
+    ] },
+
+  { "comuna": "Curaco de Vélez", "propia": false,
+    "derivacion": [
+      { "idSucursal": 44, "prioridad": 1 },
+      { "idSucursal": 45, "prioridad": 2 }
+    ] },
+
+  { "comuna": "Dalcahue", "propia": false,
+    "derivacion": [
+      { "idSucursal": 45, "prioridad": 1 },
+      { "idSucursal": 44, "prioridad": 2 }
+    ] },
+
+  { "comuna": "Fresia", "propia": false,
+    "derivacion": [
+      { "idSucursal": 46, "prioridad": 1 }
+    ] },
+
+  { "comuna": "Frutilla", "propia": false,
+    "derivacion": [
+      { "idSucursal": 46, "prioridad": 1 },
+      { "idSucursal": 47, "prioridad": 2 }
+    ] },
+
+  { "comuna": "Futaleufú", "propia": false,
+    "derivacion": [
+      { "idSucursal": 46, "prioridad": 1 }
+    ] },
+
+  { "comuna": "Hualaihué", "propia": false,
+    "derivacion": [
+      { "idSucursal": 46, "prioridad": 1 }
+    ] },
+
+  { "comuna": "Llanquihue", "propia": false,
+    "derivacion": [
+      { "idSucursal": 47, "prioridad": 1 },
+      { "idSucursal": 46, "prioridad": 2 }
+    ] },
+
+  { "comuna": "Los Muermos", "propia": false,
+    "derivacion": [
+      { "idSucursal": 46, "prioridad": 1 }
+    ] },
+
+  { "comuna": "Maullín", "propia": false,
+    "derivacion": [
+      { "idSucursal": 46, "prioridad": 1 }
+    ] },
+
+  { "comuna": "Osorno", "propia": true },
+
+  { "comuna": "Palena", "propia": false,
+    "derivacion": [
+      { "idSucursal": 46, "prioridad": 1 },
+      { "idSucursal": 43, "prioridad": 2 }
+    ] },
+
+  { "comuna": "Puerto Montt", "propia": true },
+
+  { "comuna": "Puerto Octay", "propia": false,
+    "derivacion": [
+      { "idSucursal": 42, "prioridad": 1 }
+    ] },
+
+  { "comuna": "Puerto Varas", "propia": true },
+
+  { "comuna": "Puqueldón", "propia": false,
+    "derivacion": [
+      { "idSucursal": 45, "prioridad": 1 }
+    ] },
+
+  { "comuna": "Purranque", "propia": false,
+    "derivacion": [
+      { "idSucursal": 42, "prioridad": 1 }
+    ] },
+
+  { "comuna": "Puyehue", "propia": false,
+    "derivacion": [
+      { "idSucursal": 42, "prioridad": 1 }
+    ] },
+
+  { "comuna": "Queilén", "propia": false,
+    "derivacion": [
+      { "idSucursal": 45, "prioridad": 1 }
+    ] },
+
+  { "comuna": "Quellón", "propia": false,
+    "derivacion": [
+      { "idSucursal": 45, "prioridad": 1 }
+    ] },
+
+  { "comuna": "Quemchi", "propia": false,
+    "derivacion": [
+      { "idSucursal": 44, "prioridad": 1 }
+    ] },
+
+  { "comuna": "Quinchao", "propia": false,
+    "derivacion": [
+      { "idSucursal": 44, "prioridad": 1 }
+    ] },
+
+  { "comuna": "Río Negro", "propia": false,
+    "derivacion": [
+      { "idSucursal": 42, "prioridad": 1 }
+    ] },
+
+  { "comuna": "San Juan de la Costa", "propia": false,
+    "derivacion": [
+      { "idSucursal": 42, "prioridad": 1 }
+    ] },
+
+  { "comuna": "San Pablo", "propia": false,
+    "derivacion": [
+      { "idSucursal": 42, "prioridad": 1 }
+    ] },
+
+
+
+  { "comuna": "Aysén", "propia": false,
+    "derivacion": [
+      { "idSucursal": 48, "prioridad": 1 }
+    ] },
+
+  { "comuna": "Chile Chico", "propia": false,
+    "derivacion": [
+      { "idSucursal": 48, "prioridad": 1 }
+    ] },
+
+  { "comuna": "Cisnes", "propia": false,
+    "derivacion": [
+      { "idSucursal": 48, "prioridad": 1 }
+    ] },
+
+  { "comuna": "Cochrane", "propia": false,
+    "derivacion": [
+      { "idSucursal": 48, "prioridad": 1 }
+    ] },
+
+  { "comuna": "Coyhaique", "propia": true },
+
+  { "comuna": "Guaitecas", "propia": false,
+    "derivacion": [
+      { "idSucursal": 48, "prioridad": 1 }
+    ] },
+
+  { "comuna": "Lago Verde", "propia": false,
+    "derivacion": [
+      { "idSucursal": 48, "prioridad": 1 }
+    ] },
+
+  { "comuna": "O'Higgins", "propia": false,
+    "derivacion": [
+      { "idSucursal": 48, "prioridad": 1 }
+    ] },
+
+  { "comuna": "Río Ibáñez", "propia": false,
+    "derivacion": [
+      { "idSucursal": 48, "prioridad": 1 }
+    ] },
+
+  { "comuna": "Tortel", "propia": false,
+    "derivacion": [
+      { "idSucursal": 48, "prioridad": 1 }
+    ] },
+
+
+  { "comuna": "Antártica", "propia": false,
+    "derivacion": [
+      { "idSucursal": 49, "prioridad": 1 }
+    ] },
+
+  { "comuna": "Cabo de Hornos", "propia": false,
+    "derivacion": [
+      { "idSucursal": 49, "prioridad": 1 }
+    ] },
+
+  { "comuna": "Laguna Blanca", "propia": false,
+    "derivacion": [
+      { "idSucursal": 49, "prioridad": 1 }
+    ] },
+
+  { "comuna": "Natales", "propia": false,
+    "derivacion": [
+      { "idSucursal": 49, "prioridad": 1 }
+    ] },
+
+  { "comuna": "Porvenir", "propia": false,
+    "derivacion": [
+      { "idSucursal": 49, "prioridad": 1 }
+    ] },
+
+  { "comuna": "Primavera", "propia": false,
+    "derivacion": [
+      { "idSucursal": 49, "prioridad": 1 }
+    ] },
+
+  { "comuna": "Punta Arenas", "propia": true },
+
+  { "comuna": "Río Verde", "propia": false,
+    "derivacion": [
+      { "idSucursal": 49, "prioridad": 1 }
+    ] },
+
+  { "comuna": "San Gregorio", "propia": false,
+    "derivacion": [
+      { "idSucursal": 49, "prioridad": 1 }
+    ] },
+
+  { "comuna": "Timaukel", "propia": false,
+    "derivacion": [
+      { "idSucursal": 49, "prioridad": 1 }
+    ] },
+
+  { "comuna": "Torres del Paine", "propia": false,
+    "derivacion": [
+      { "idSucursal": 49, "prioridad": 1 }
+    ] },
+
+
+
+  { "comuna": "Corral", "propia": false,
+    "derivacion": [
+      { "idSucursal": 43, "prioridad": 1 }
+    ] },
+
+  { "comuna": "Futrono", "propia": false,
+    "derivacion": [
+      { "idSucursal": 43, "prioridad": 1 }
+    ] },
+
+  { "comuna": "Lago Ranco", "propia": false,
+    "derivacion": [
+      { "idSucursal": 43, "prioridad": 1 }
+    ] },
+
+  { "comuna": "Lanco", "propia": false,
+    "derivacion": [
+      { "idSucursal": 43, "prioridad": 1 }
+    ] },
+
+  { "comuna": "La Unión", "propia": false,
+    "derivacion": [
+      { "idSucursal": 43, "prioridad": 1 }
+    ] },
+
+  { "comuna": "Los Lagos", "propia": false,
+    "derivacion": [
+      { "idSucursal": 43, "prioridad": 1 }
+    ] },
+
+  { "comuna": "Máfil", "propia": false,
+    "derivacion": [
+      { "idSucursal": 43, "prioridad": 1 }
+    ] },
+
+  { "comuna": "San José de la Mariquina", "propia": false,
+    "derivacion": [
+      { "idSucursal": 43, "prioridad": 1 }
+    ] },
+
+  { "comuna": "Paillaco", "propia": false,
+    "derivacion": [
+      { "idSucursal": 43, "prioridad": 1 }
+    ] },
+
+  { "comuna": "Panguipulli", "propia": false,
+    "derivacion": [
+      { "idSucursal": 43, "prioridad": 1 }
+    ] },
+
+  { "comuna": "Río Bueno", "propia": false,
+    "derivacion": [
+      { "idSucursal": 43, "prioridad": 1 }
+    ] },
+
+  { "comuna": "Valdivia", "propia": true },
+
+
+  
+  { "comuna": "Arica", "propia": true,
+    "derivacion": [
+      { "idSucursal": 2, "prioridad": 1 },
+      { "idSucursal": 1, "prioridad": 2 }
+    ] },
+
+  { "comuna": "Camarones", "propia": false,
+    "derivacion": [
+      { "idSucursal": 2, "prioridad": 1 },
+      { "idSucursal": 1, "prioridad": 2 }
+    ] },
+
+  { "comuna": "General Lagos", "propia": false,
+    "derivacion": [
+      { "idSucursal": 2, "prioridad": 1 },
+      { "idSucursal": 1, "prioridad": 2 }
+    ] },
+
+  { "comuna": "Putre", "propia": false,
+    "derivacion": [
+      { "idSucursal": 2, "prioridad": 1 },
+      { "idSucursal": 1, "prioridad": 2 }
+    ] },
+
+
+
+  { "comuna": "Chillán", "propia": true,
+    "derivacion": [
+      { "idSucursal": 30, "prioridad": 1 }
+    ] },
+
+  { "comuna": "San Carlos", "propia": true,
+    "derivacion": [
+      { "idSucursal": 32, "prioridad": 1 }
+    ] },
+
+  { "comuna": "Chillán Viejo", "propia": false,
+    "derivacion": [
+      { "idSucursal": 30, "prioridad": 1 }
+    ] },
+
+  { "comuna": "Bulnes", "propia": false,
+    "derivacion": [
+      { "idSucursal": 30, "prioridad": 1 }
+    ] },
+
+  { "comuna": "Pemuco", "propia": false,
+    "derivacion": [
+      { "idSucursal": 30, "prioridad": 1 }
+    ] },
+
+  { "comuna": "Yungay", "propia": false,
+    "derivacion": [
+      { "idSucursal": 30, "prioridad": 1 }
+    ] },
+
+  { "comuna": "San Ignacio", "propia": false,
+    "derivacion": [
+      { "idSucursal": 30, "prioridad": 1 }
+    ] },
+
+  { "comuna": "El Carmen", "propia": false,
+    "derivacion": [
+      { "idSucursal": 30, "prioridad": 1 }
+    ] },
+
+  { "comuna": "Pinto", "propia": false,
+    "derivacion": [
+      { "idSucursal": 30, "prioridad": 1 }
+    ] },
+
+  { "comuna": "Coihueco", "propia": false,
+    "derivacion": [
+      { "idSucursal": 30, "prioridad": 1 }
+    ] },
+
+  { "comuna": "Ñiquén", "propia": false,
+    "derivacion": [
+      { "idSucursal": 32, "prioridad": 1 }
+    ] },
+
+  { "comuna": "San Nicolás", "propia": false,
+    "derivacion": [
+      { "idSucursal": 32, "prioridad": 1 }
+    ] },
+
+  { "comuna": "San Fabián", "propia": false,
+    "derivacion": [
+      { "idSucursal": 32, "prioridad": 1 }
+    ] },
+
+  { "comuna": "Cobquecura", "propia": false,
+    "derivacion": [
+      { "idSucursal": 30, "prioridad": 1 }
+    ] },
+
+  { "comuna": "Quirihue", "propia": false,
+    "derivacion": [
+      { "idSucursal": 30, "prioridad": 1 }
+    ] },
+
+  { "comuna": "Ninhue", "propia": false,
+    "derivacion": [
+      { "idSucursal": 30, "prioridad": 1 }
+    ] },
+
+  { "comuna": "Portezuelo", "propia": false,
+    "derivacion": [
+      { "idSucursal": 30, "prioridad": 1 }
+    ] },
+
+  { "comuna": "Ránquil", "propia": false,
+    "derivacion": [
+      { "idSucursal": 30, "prioridad": 1 }
+    ] },
+
+  { "comuna": "Treguaco", "propia": false,
+    "derivacion": [
+      { "idSucursal": 30, "prioridad": 1 }
+    ] },
+
+  { "comuna": "Coelemu", "propia": false,
+    "derivacion": [
+      { "idSucursal": 30, "prioridad": 1 }
+    ] },
+
+  { "comuna": "Quillón", "propia": false,
+    "derivacion": [
+      { "idSucursal": 30, "prioridad": 1 }
+    ] }
+
+
+
+]
+

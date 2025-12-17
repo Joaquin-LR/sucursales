@@ -1,0 +1,1722 @@
+[
+  {
+    "comuna": "Arica",
+    "provincia": "Arica",
+    "region": "Arica y Parinacota"
+  },
+  {
+    "comuna": "Camarones",
+    "provincia": "Arica",
+    "region": "Arica y Parinacota"
+  },
+  {
+    "comuna": "Putre",
+    "provincia": "Parinacota",
+    "region": "Arica y Parinacota"
+  },
+  {
+    "comuna": "General Lagos",
+    "provincia": "Parinacota",
+    "region": "Arica y Parinacota"
+  },
+
+  {
+    "comuna": "Iquique",
+    "provincia": "Iquique",
+    "region": "Tarapacá"
+  },
+  {
+    "comuna": "Alto Hospicio",
+    "provincia": "Iquique",
+    "region": "Tarapacá"
+  },
+  {
+    "comuna": "Pozo Almonte",
+    "provincia": "Tamarugal",
+    "region": "Tarapacá"
+  },
+  {
+    "comuna": "Camiña",
+    "provincia": "Tamarugal",
+    "region": "Tarapacá"
+  },
+  {
+    "comuna": "Colchane",
+    "provincia": "Tamarugal",
+    "region": "Tarapacá"
+  },
+  {
+    "comuna": "Huara",
+    "provincia": "Tamarugal",
+    "region": "Tarapacá"
+  },
+  {
+    "comuna": "Pica",
+    "provincia": "Tamarugal",
+    "region": "Tarapacá"
+  },
+
+  {
+    "comuna": "Antofagasta",
+    "provincia": "Antofagasta",
+    "region": "Antofagasta"
+  },
+  {
+    "comuna": "Mejillones",
+    "provincia": "Antofagasta",
+    "region": "Antofagasta"
+  },
+  {
+    "comuna": "Sierra Gorda",
+    "provincia": "Antofagasta",
+    "region": "Antofagasta"
+  },
+  {
+    "comuna": "Taltal",
+    "provincia": "Antofagasta",
+    "region": "Antofagasta"
+  },
+  {
+    "comuna": "Copiapó",
+    "provincia": "Copiapó",
+    "region": "Atacama"
+  },
+  {
+    "comuna": "Caldera",
+    "provincia": "Copiapó",
+    "region": "Atacama"
+  },
+  {
+    "comuna": "Tierra Amarilla",
+    "provincia": "Copiapó",
+    "region": "Atacama"
+  },
+  {
+    "comuna": "Chañaral",
+    "provincia": "Chañaral",
+    "region": "Atacama"
+  },
+  {
+    "comuna": "Diego de Almagro",
+    "provincia": "Chañaral",
+    "region": "Atacama"
+  },
+  {
+    "comuna": "Vallenar",
+    "provincia": "Huasco",
+    "region": "Atacama"
+  },
+  {
+    "comuna": "Alto del Carmen",
+    "provincia": "Huasco",
+    "region": "Atacama"
+  },
+  {
+    "comuna": "Freirina",
+    "provincia": "Huasco",
+    "region": "Atacama"
+  },
+  {
+    "comuna": "Huasco",
+    "provincia": "Huasco",
+    "region": "Atacama"
+  },
+
+  {
+    "comuna": "La Serena",
+    "provincia": "Elqui",
+    "region": "Coquimbo"
+  },
+  {
+    "comuna": "Coquimbo",
+    "provincia": "Elqui",
+    "region": "Coquimbo"
+  },
+  {
+    "comuna": "Andacollo",
+    "provincia": "Elqui",
+    "region": "Coquimbo"
+  },
+  {
+    "comuna": "Vicuña",
+    "provincia": "Elqui",
+    "region": "Coquimbo"
+  },
+  {
+    "comuna": "Paihuano",
+    "provincia": "Elqui",
+    "region": "Coquimbo"
+  },
+  {
+    "comuna": "Ovalle",
+    "provincia": "Limarí",
+    "region": "Coquimbo"
+  },
+  {
+    "comuna": "Monte Patria",
+    "provincia": "Limarí",
+    "region": "Coquimbo"
+  },
+  {
+    "comuna": "Punitaqui",
+    "provincia": "Limarí",
+    "region": "Coquimbo"
+  },
+  {
+    "comuna": "Combarbalá",
+    "provincia": "Limarí",
+    "region": "Coquimbo"
+  },
+  {
+    "comuna": "Illapel",
+    "provincia": "Choapa",
+    "region": "Coquimbo"
+  },
+  {
+    "comuna": "Salamanca",
+    "provincia": "Choapa",
+    "region": "Coquimbo"
+  },
+  {
+    "comuna": "Los Vilos",
+    "provincia": "Choapa",
+    "region": "Coquimbo"
+  },
+  {
+    "comuna": "Canela",
+    "provincia": "Choapa",
+    "region": "Coquimbo"
+  },
+
+  {
+    "comuna": "Valparaíso",
+    "provincia": "Valparaíso",
+    "region": "Valparaíso"
+  },
+  {
+    "comuna": "Viña del Mar",
+    "provincia": "Valparaíso",
+    "region": "Valparaíso"
+  },
+  {
+    "comuna": "Concón",
+    "provincia": "Valparaíso",
+    "region": "Valparaíso"
+  },
+  {
+    "comuna": "Quintero",
+    "provincia": "Valparaíso",
+    "region": "Valparaíso"
+  },
+  {
+    "comuna": "Puchuncaví",
+    "provincia": "Valparaíso",
+    "region": "Valparaíso"
+  },
+  {
+    "comuna": "Casablanca",
+    "provincia": "Valparaíso",
+    "region": "Valparaíso"
+  },
+  {
+    "comuna": "Quillota",
+    "provincia": "Quillota",
+    "region": "Valparaíso"
+  },
+  {
+    "comuna": "La Calera",
+    "provincia": "Quillota",
+    "region": "Valparaíso"
+  },
+  {
+    "comuna": "Hijuelas",
+    "provincia": "Quillota",
+    "region": "Valparaíso"
+  },
+  {
+    "comuna": "Nogales",
+    "provincia": "Quillota",
+    "region": "Valparaíso"
+  },
+
+  {
+    "comuna": "San Antonio",
+    "provincia": "San Antonio",
+    "region": "Valparaíso"
+  },
+  {
+    "comuna": "Cartagena",
+    "provincia": "San Antonio",
+    "region": "Valparaíso"
+  },
+  {
+    "comuna": "El Quisco",
+    "provincia": "San Antonio",
+    "region": "Valparaíso"
+  },
+  {
+    "comuna": "El Tabo",
+    "provincia": "San Antonio",
+    "region": "Valparaíso"
+  },
+  {
+    "comuna": "Algarrobo",
+    "provincia": "San Antonio",
+    "region": "Valparaíso"
+  },
+
+  {
+    "comuna": "Los Andes",
+    "provincia": "Los Andes",
+    "region": "Valparaíso"
+  },
+  {
+    "comuna": "Calle Larga",
+    "provincia": "Los Andes",
+    "region": "Valparaíso"
+  },
+  {
+    "comuna": "Rinconada",
+    "provincia": "Los Andes",
+    "region": "Valparaíso"
+  },
+  {
+    "comuna": "San Esteban",
+    "provincia": "Los Andes",
+    "region": "Valparaíso"
+  },
+
+  {
+    "comuna": "San Felipe",
+    "provincia": "San Felipe de Aconcagua",
+    "region": "Valparaíso"
+  },
+  {
+    "comuna": "Putaendo",
+    "provincia": "San Felipe de Aconcagua",
+    "region": "Valparaíso"
+  },
+  {
+    "comuna": "Panquehue",
+    "provincia": "San Felipe de Aconcagua",
+    "region": "Valparaíso"
+  },
+  {
+    "comuna": "Santa María",
+    "provincia": "San Felipe de Aconcagua",
+    "region": "Valparaíso"
+  },
+  {
+    "comuna": "Cerrillos",
+    "provincia": "Santiago",
+    "region": "Metropolitana"
+  },
+  {
+    "comuna": "Cerro Navia",
+    "provincia": "Santiago",
+    "region": "Metropolitana"
+  },
+  {
+    "comuna": "Conchalí",
+    "provincia": "Santiago",
+    "region": "Metropolitana"
+  },
+  {
+    "comuna": "El Bosque",
+    "provincia": "Santiago",
+    "region": "Metropolitana"
+  },
+  {
+    "comuna": "Estación Central",
+    "provincia": "Santiago",
+    "region": "Metropolitana"
+  },
+  {
+    "comuna": "Huechuraba",
+    "provincia": "Santiago",
+    "region": "Metropolitana"
+  },
+  {
+    "comuna": "Independencia",
+    "provincia": "Santiago",
+    "region": "Metropolitana"
+  },
+  {
+    "comuna": "La Cisterna",
+    "provincia": "Santiago",
+    "region": "Metropolitana"
+  },
+  {
+    "comuna": "La Florida",
+    "provincia": "Santiago",
+    "region": "Metropolitana"
+  },
+  {
+    "comuna": "La Granja",
+    "provincia": "Santiago",
+    "region": "Metropolitana"
+  },
+  {
+    "comuna": "La Pintana",
+    "provincia": "Santiago",
+    "region": "Metropolitana"
+  },
+  {
+    "comuna": "La Reina",
+    "provincia": "Santiago",
+    "region": "Metropolitana"
+  },
+  {
+    "comuna": "Las Condes",
+    "provincia": "Santiago",
+    "region": "Metropolitana"
+  },
+  {
+    "comuna": "Lo Barnechea",
+    "provincia": "Santiago",
+    "region": "Metropolitana"
+  },
+  {
+    "comuna": "Lo Espejo",
+    "provincia": "Santiago",
+    "region": "Metropolitana"
+  },
+  {
+    "comuna": "Lo Prado",
+    "provincia": "Santiago",
+    "region": "Metropolitana"
+  },
+  {
+    "comuna": "Macul",
+    "provincia": "Santiago",
+    "region": "Metropolitana"
+  },
+  {
+    "comuna": "Maipú",
+    "provincia": "Santiago",
+    "region": "Metropolitana"
+  },
+  {
+    "comuna": "Ñuñoa",
+    "provincia": "Santiago",
+    "region": "Metropolitana"
+  },
+  {
+    "comuna": "Pedro Aguirre Cerda",
+    "provincia": "Santiago",
+    "region": "Metropolitana"
+  },
+  {
+    "comuna": "Peñalolén",
+    "provincia": "Santiago",
+    "region": "Metropolitana"
+  },
+  {
+    "comuna": "Providencia",
+    "provincia": "Santiago",
+    "region": "Metropolitana"
+  },
+  {
+    "comuna": "Pudahuel",
+    "provincia": "Santiago",
+    "region": "Metropolitana"
+  },
+  {
+    "comuna": "Quilicura",
+    "provincia": "Santiago",
+    "region": "Metropolitana"
+  },
+  {
+    "comuna": "Quinta Normal",
+    "provincia": "Santiago",
+    "region": "Metropolitana"
+  },
+  {
+    "comuna": "Recoleta",
+    "provincia": "Santiago",
+    "region": "Metropolitana"
+  },
+  {
+    "comuna": "Renca",
+    "provincia": "Santiago",
+    "region": "Metropolitana"
+  },
+  {
+    "comuna": "San Joaquín",
+    "provincia": "Santiago",
+    "region": "Metropolitana"
+  },
+  {
+    "comuna": "San Miguel",
+    "provincia": "Santiago",
+    "region": "Metropolitana"
+  },
+  {
+    "comuna": "San Ramón",
+    "provincia": "Santiago",
+    "region": "Metropolitana"
+  },
+  {
+    "comuna": "Santiago",
+    "provincia": "Santiago",
+    "region": "Metropolitana"
+  },
+  {
+    "comuna": "Vitacura",
+    "provincia": "Santiago",
+    "region": "Metropolitana"
+  },
+
+  {
+    "comuna": "Colina",
+    "provincia": "Chacabuco",
+    "region": "Metropolitana"
+  },
+  {
+    "comuna": "Lampa",
+    "provincia": "Chacabuco",
+    "region": "Metropolitana"
+  },
+  {
+    "comuna": "Tiltil",
+    "provincia": "Chacabuco",
+    "region": "Metropolitana"
+  },
+
+  {
+    "comuna": "Puente Alto",
+    "provincia": "Cordillera",
+    "region": "Metropolitana"
+  },
+  {
+    "comuna": "Pirque",
+    "provincia": "Cordillera",
+    "region": "Metropolitana"
+  },
+  {
+    "comuna": "San José de Maipo",
+    "provincia": "Cordillera",
+    "region": "Metropolitana"
+  },
+
+  {
+    "comuna": "San Bernardo",
+    "provincia": "Maipo",
+    "region": "Metropolitana"
+  },
+  {
+    "comuna": "Buin",
+    "provincia": "Maipo",
+    "region": "Metropolitana"
+  },
+  {
+    "comuna": "Paine",
+    "provincia": "Maipo",
+    "region": "Metropolitana"
+  },
+  {
+    "comuna": "Calera de Tango",
+    "provincia": "Maipo",
+    "region": "Metropolitana"
+  },
+
+  {
+    "comuna": "Talagante",
+    "provincia": "Talagante",
+    "region": "Metropolitana"
+  },
+  {
+    "comuna": "Peñaflor",
+    "provincia": "Talagante",
+    "region": "Metropolitana"
+  },
+  {
+    "comuna": "Isla de Maipo",
+    "provincia": "Talagante",
+    "region": "Metropolitana"
+  },
+  {
+    "comuna": "El Monte",
+    "provincia": "Talagante",
+    "region": "Metropolitana"
+  },
+  {
+    "comuna": "Padre Hurtado",
+    "provincia": "Talagante",
+    "region": "Metropolitana"
+  },
+
+  {
+    "comuna": "Melipilla",
+    "provincia": "Melipilla",
+    "region": "Metropolitana"
+  },
+  {
+    "comuna": "Alhué",
+    "provincia": "Melipilla",
+    "region": "Metropolitana"
+  },
+  {
+    "comuna": "Curacaví",
+    "provincia": "Melipilla",
+    "region": "Metropolitana"
+  },
+  {
+    "comuna": "María Pinto",
+    "provincia": "Melipilla",
+    "region": "Metropolitana"
+  },
+  {
+    "comuna": "San Pedro",
+    "provincia": "Melipilla",
+    "region": "Metropolitana"
+  },
+  {
+    "comuna": "Rancagua",
+    "provincia": "Cachapoal",
+    "region": "O'Higgins"
+  },
+  {
+    "comuna": "Machalí",
+    "provincia": "Cachapoal",
+    "region": "O'Higgins"
+  },
+  {
+    "comuna": "Graneros",
+    "provincia": "Cachapoal",
+    "region": "O'Higgins"
+  },
+  {
+    "comuna": "Mostazal",
+    "provincia": "Cachapoal",
+    "region": "O'Higgins"
+  },
+  {
+    "comuna": "Codegua",
+    "provincia": "Cachapoal",
+    "region": "O'Higgins"
+  },
+  {
+    "comuna": "Doñihue",
+    "provincia": "Cachapoal",
+    "region": "O'Higgins"
+  },
+  {
+    "comuna": "Coltauco",
+    "provincia": "Cachapoal",
+    "region": "O'Higgins"
+  },
+  {
+    "comuna": "Olivar",
+    "provincia": "Cachapoal",
+    "region": "O'Higgins"
+  },
+  {
+    "comuna": "Coinco",
+    "provincia": "Cachapoal",
+    "region": "O'Higgins"
+  },
+  {
+    "comuna": "Peumo",
+    "provincia": "Cachapoal",
+    "region": "O'Higgins"
+  },
+  {
+    "comuna": "Las Cabras",
+    "provincia": "Cachapoal",
+    "region": "O'Higgins"
+  },
+  {
+    "comuna": "San Vicente",
+    "provincia": "Cachapoal",
+    "region": "O'Higgins"
+  },
+  {
+    "comuna": "Pichidegua",
+    "provincia": "Cachapoal",
+    "region": "O'Higgins"
+  },
+
+  {
+    "comuna": "San Fernando",
+    "provincia": "Colchagua",
+    "region": "O'Higgins"
+  },
+  {
+    "comuna": "Chimbarongo",
+    "provincia": "Colchagua",
+    "region": "O'Higgins"
+  },
+  {
+    "comuna": "Placilla",
+    "provincia": "Colchagua",
+    "region": "O'Higgins"
+  },
+  {
+    "comuna": "Nancagua",
+    "provincia": "Colchagua",
+    "region": "O'Higgins"
+  },
+  {
+    "comuna": "Santa Cruz",
+    "provincia": "Colchagua",
+    "region": "O'Higgins"
+  },
+  {
+    "comuna": "Palmilla",
+    "provincia": "Colchagua",
+    "region": "O'Higgins"
+  },
+  {
+    "comuna": "Peralillo",
+    "provincia": "Colchagua",
+    "region": "O'Higgins"
+  },
+  {
+    "comuna": "Lolol",
+    "provincia": "Colchagua",
+    "region": "O'Higgins"
+  },
+  {
+    "comuna": "Pumanque",
+    "provincia": "Colchagua",
+    "region": "O'Higgins"
+  },
+
+  {
+    "comuna": "Pichilemu",
+    "provincia": "Cardenal Caro",
+    "region": "O'Higgins"
+  },
+  {
+    "comuna": "Navidad",
+    "provincia": "Cardenal Caro",
+    "region": "O'Higgins"
+  },
+  {
+    "comuna": "La Estrella",
+    "provincia": "Cardenal Caro",
+    "region": "O'Higgins"
+  },
+  {
+    "comuna": "Marchihue",
+    "provincia": "Cardenal Caro",
+    "region": "O'Higgins"
+  },
+  {
+    "comuna": "Litueche",
+    "provincia": "Cardenal Caro",
+    "region": "O'Higgins"
+  },
+
+  {
+    "comuna": "Talca",
+    "provincia": "Talca",
+    "region": "Maule"
+  },
+  {
+    "comuna": "San Clemente",
+    "provincia": "Talca",
+    "region": "Maule"
+  },
+  {
+    "comuna": "Pelarco",
+    "provincia": "Talca",
+    "region": "Maule"
+  },
+  {
+    "comuna": "Río Claro",
+    "provincia": "Talca",
+    "region": "Maule"
+  },
+  {
+    "comuna": "Maule",
+    "provincia": "Talca",
+    "region": "Maule"
+  },
+  {
+    "comuna": "San Rafael",
+    "provincia": "Talca",
+    "region": "Maule"
+  },
+  {
+    "comuna": "Empedrado",
+    "provincia": "Talca",
+    "region": "Maule"
+  },
+
+  {
+    "comuna": "Curicó",
+    "provincia": "Curicó",
+    "region": "Maule"
+  },
+  {
+    "comuna": "Romeral",
+    "provincia": "Curicó",
+    "region": "Maule"
+  },
+  {
+    "comuna": "Teno",
+    "provincia": "Curicó",
+    "region": "Maule"
+  },
+  {
+    "comuna": "Molina",
+    "provincia": "Curicó",
+    "region": "Maule"
+  },
+  {
+    "comuna": "Sagrada Familia",
+    "provincia": "Curicó",
+    "region": "Maule"
+  },
+  {
+    "comuna": "Hualañé",
+    "provincia": "Curicó",
+    "region": "Maule"
+  },
+  {
+    "comuna": "Licantén",
+    "provincia": "Curicó",
+    "region": "Maule"
+  },
+  {
+    "comuna": "Vichuquén",
+    "provincia": "Curicó",
+    "region": "Maule"
+  },
+
+  {
+    "comuna": "Linares",
+    "provincia": "Linares",
+    "region": "Maule"
+  },
+  {
+    "comuna": "Yerbas Buenas",
+    "provincia": "Linares",
+    "region": "Maule"
+  },
+  {
+    "comuna": "Colbún",
+    "provincia": "Linares",
+    "region": "Maule"
+  },
+  {
+    "comuna": "Longaví",
+    "provincia": "Linares",
+    "region": "Maule"
+  },
+  {
+    "comuna": "Parral",
+    "provincia": "Linares",
+    "region": "Maule"
+  },
+  {
+    "comuna": "Retiro",
+    "provincia": "Linares",
+    "region": "Maule"
+  },
+  {
+    "comuna": "Villa Alegre",
+    "provincia": "Linares",
+    "region": "Maule"
+  },
+  {
+    "comuna": "San Javier",
+    "provincia": "Linares",
+    "region": "Maule"
+  },
+
+  {
+    "comuna": "Cauquenes",
+    "provincia": "Cauquenes",
+    "region": "Maule"
+  },
+  {
+    "comuna": "Pelluhue",
+    "provincia": "Cauquenes",
+    "region": "Maule"
+  },
+  {
+    "comuna": "Chanco",
+    "provincia": "Cauquenes",
+    "region": "Maule"
+  },
+
+  {
+    "comuna": "Chillán",
+    "provincia": "Diguillín",
+    "region": "Ñuble"
+  },
+  {
+    "comuna": "Chillán Viejo",
+    "provincia": "Diguillín",
+    "region": "Ñuble"
+  },
+  {
+    "comuna": "Bulnes",
+    "provincia": "Diguillín",
+    "region": "Ñuble"
+  },
+  {
+    "comuna": "Quillón",
+    "provincia": "Diguillín",
+    "region": "Ñuble"
+  },
+  {
+    "comuna": "San Ignacio",
+    "provincia": "Diguillín",
+    "region": "Ñuble"
+  },
+  {
+    "comuna": "El Carmen",
+    "provincia": "Diguillín",
+    "region": "Ñuble"
+  },
+  {
+    "comuna": "Pemuco",
+    "provincia": "Diguillín",
+    "region": "Ñuble"
+  },
+  {
+    "comuna": "Yungay",
+    "provincia": "Diguillín",
+    "region": "Ñuble"
+  },
+
+  {
+    "comuna": "Quirihue",
+    "provincia": "Itata",
+    "region": "Ñuble"
+  },
+  {
+    "comuna": "Coelemu",
+    "provincia": "Itata",
+    "region": "Ñuble"
+  },
+  {
+    "comuna": "Treguaco",
+    "provincia": "Itata",
+    "region": "Ñuble"
+  },
+  {
+    "comuna": "Ninhue",
+    "provincia": "Itata",
+    "region": "Ñuble"
+  },
+  {
+    "comuna": "Portezuelo",
+    "provincia": "Itata",
+    "region": "Ñuble"
+  },
+  {
+    "comuna": "Cobquecura",
+    "provincia": "Itata",
+    "region": "Ñuble"
+  },
+  {
+    "comuna": "Ránquil",
+    "provincia": "Itata",
+    "region": "Ñuble"
+  },
+
+  {
+    "comuna": "San Carlos",
+    "provincia": "Punilla",
+    "region": "Ñuble"
+  },
+  {
+    "comuna": "Ñiquén",
+    "provincia": "Punilla",
+    "region": "Ñuble"
+  },
+  {
+    "comuna": "San Fabián",
+    "provincia": "Punilla",
+    "region": "Ñuble"
+  },
+  {
+    "comuna": "Coihueco",
+    "provincia": "Punilla",
+    "region": "Ñuble"
+  },
+  {
+    "comuna": "Concepción",
+    "provincia": "Concepción",
+    "region": "Biobío"
+  },
+  {
+    "comuna": "Talcahuano",
+    "provincia": "Concepción",
+    "region": "Biobío"
+  },
+  {
+    "comuna": "Hualpén",
+    "provincia": "Concepción",
+    "region": "Biobío"
+  },
+  {
+    "comuna": "San Pedro de la Paz",
+    "provincia": "Concepción",
+    "region": "Biobío"
+  },
+  {
+    "comuna": "Chiguayante",
+    "provincia": "Concepción",
+    "region": "Biobío"
+  },
+  {
+    "comuna": "Coronel",
+    "provincia": "Concepción",
+    "region": "Biobío"
+  },
+  {
+    "comuna": "Lota",
+    "provincia": "Concepción",
+    "region": "Biobío"
+  },
+  {
+    "comuna": "Penco",
+    "provincia": "Concepción",
+    "region": "Biobío"
+  },
+  {
+    "comuna": "Tomé",
+    "provincia": "Concepción",
+    "region": "Biobío"
+  },
+  {
+    "comuna": "Florida",
+    "provincia": "Concepción",
+    "region": "Biobío"
+  },
+  {
+    "comuna": "Hualqui",
+    "provincia": "Concepción",
+    "region": "Biobío"
+  },
+  {
+    "comuna": "Santa Juana",
+    "provincia": "Concepción",
+    "region": "Biobío"
+  },
+
+  {
+    "comuna": "Los Ángeles",
+    "provincia": "Biobío",
+    "region": "Biobío"
+  },
+  {
+    "comuna": "Nacimiento",
+    "provincia": "Biobío",
+    "region": "Biobío"
+  },
+  {
+    "comuna": "Negrete",
+    "provincia": "Biobío",
+    "region": "Biobío"
+  },
+  {
+    "comuna": "Mulchén",
+    "provincia": "Biobío",
+    "region": "Biobío"
+  },
+  {
+    "comuna": "Quilaco",
+    "provincia": "Biobío",
+    "region": "Biobío"
+  },
+  {
+    "comuna": "Quilleco",
+    "provincia": "Biobío",
+    "region": "Biobío"
+  },
+  {
+    "comuna": "Yumbel",
+    "provincia": "Biobío",
+    "region": "Biobío"
+  },
+  {
+    "comuna": "Cabrero",
+    "provincia": "Biobío",
+    "region": "Biobío"
+  },
+  {
+    "comuna": "Laja",
+    "provincia": "Biobío",
+    "region": "Biobío"
+  },
+  {
+    "comuna": "San Rosendo",
+    "provincia": "Biobío",
+    "region": "Biobío"
+  },
+  {
+    "comuna": "Antuco",
+    "provincia": "Biobío",
+    "region": "Biobío"
+  },
+  {
+    "comuna": "Tucapel",
+    "provincia": "Biobío",
+    "region": "Biobío"
+  },
+  {
+    "comuna": "Alto Biobío",
+    "provincia": "Biobío",
+    "region": "Biobío"
+  },
+
+  {
+    "comuna": "Temuco",
+    "provincia": "Cautín",
+    "region": "La Araucanía"
+  },
+  {
+    "comuna": "Padre Las Casas",
+    "provincia": "Cautín",
+    "region": "La Araucanía"
+  },
+  {
+    "comuna": "Perquenco",
+    "provincia": "Cautín",
+    "region": "La Araucanía"
+  },
+  {
+    "comuna": "Vilcún",
+    "provincia": "Cautín",
+    "region": "La Araucanía"
+  },
+  {
+    "comuna": "Freire",
+    "provincia": "Cautín",
+    "region": "La Araucanía"
+  },
+  {
+    "comuna": "Cunco",
+    "provincia": "Cautín",
+    "region": "La Araucanía"
+  },
+  {
+    "comuna": "Melipeuco",
+    "provincia": "Cautín",
+    "region": "La Araucanía"
+  },
+  {
+    "comuna": "Curarrehue",
+    "provincia": "Cautín",
+    "region": "La Araucanía"
+  },
+  {
+    "comuna": "Pucón",
+    "provincia": "Cautín",
+    "region": "La Araucanía"
+  },
+  {
+    "comuna": "Villarrica",
+    "provincia": "Cautín",
+    "region": "La Araucanía"
+  },
+  {
+    "comuna": "Loncoche",
+    "provincia": "Cautín",
+    "region": "La Araucanía"
+  },
+  {
+    "comuna": "Gorbea",
+    "provincia": "Cautín",
+    "region": "La Araucanía"
+  },
+  {
+    "comuna": "Toltén",
+    "provincia": "Cautín",
+    "region": "La Araucanía"
+  },
+  {
+    "comuna": "Saavedra",
+    "provincia": "Cautín",
+    "region": "La Araucanía"
+  },
+  {
+    "comuna": "Teodoro Schmidt",
+    "provincia": "Cautín",
+    "region": "La Araucanía"
+  },
+  {
+    "comuna": "Nueva Imperial",
+    "provincia": "Cautín",
+    "region": "La Araucanía"
+  },
+  {
+    "comuna": "Carahue",
+    "provincia": "Cautín",
+    "region": "La Araucanía"
+  },
+  {
+    "comuna": "Cholchol",
+    "provincia": "Cautín",
+    "region": "La Araucanía"
+  },
+
+  {
+    "comuna": "Angol",
+    "provincia": "Malleco",
+    "region": "La Araucanía"
+  },
+  {
+    "comuna": "Renaico",
+    "provincia": "Malleco",
+    "region": "La Araucanía"
+  },
+  {
+    "comuna": "Collipulli",
+    "provincia": "Malleco",
+    "region": "La Araucanía"
+  },
+  {
+    "comuna": "Ercilla",
+    "provincia": "Malleco",
+    "region": "La Araucanía"
+  },
+  {
+    "comuna": "Traiguén",
+    "provincia": "Malleco",
+    "region": "La Araucanía"
+  },
+  {
+    "comuna": "Lumaco",
+    "provincia": "Malleco",
+    "region": "La Araucanía"
+  },
+  {
+    "comuna": "Purén",
+    "provincia": "Malleco",
+    "region": "La Araucanía"
+  },
+  {
+    "comuna": "Los Sauces",
+    "provincia": "Malleco",
+    "region": "La Araucanía"
+  },
+  {
+    "comuna": "Victoria",
+    "provincia": "Malleco",
+    "region": "La Araucanía"
+  },
+  {
+    "comuna": "Curacautín",
+    "provincia": "Malleco",
+    "region": "La Araucanía"
+  },
+  {
+    "comuna": "Lonquimay",
+    "provincia": "Malleco",
+    "region": "La Araucanía"
+  },
+  {
+    "comuna": "Valdivia",
+    "provincia": "Valdivia",
+    "region": "Los Ríos"
+  },
+  {
+    "comuna": "San José de la Mariquina",
+    "provincia": "Valdivia",
+    "region": "Los Ríos"
+  },
+  {
+    "comuna": "Lanco",
+    "provincia": "Valdivia",
+    "region": "Los Ríos"
+  },
+  {
+    "comuna": "Los Lagos",
+    "provincia": "Valdivia",
+    "region": "Los Ríos"
+  },
+  {
+    "comuna": "Panguipulli",
+    "provincia": "Valdivia",
+    "region": "Los Ríos"
+  },
+  {
+    "comuna": "Paillaco",
+    "provincia": "Valdivia",
+    "region": "Los Ríos"
+  },
+  {
+    "comuna": "Máfil",
+    "provincia": "Valdivia",
+    "region": "Los Ríos"
+  },
+  {
+    "comuna": "Corral",
+    "provincia": "Valdivia",
+    "region": "Los Ríos"
+  },
+
+  {
+    "comuna": "La Unión",
+    "provincia": "Ranco",
+    "region": "Los Ríos"
+  },
+  {
+    "comuna": "Río Bueno",
+    "provincia": "Ranco",
+    "region": "Los Ríos"
+  },
+  {
+    "comuna": "Futrono",
+    "provincia": "Ranco",
+    "region": "Los Ríos"
+  },
+  {
+    "comuna": "Lago Ranco",
+    "provincia": "Ranco",
+    "region": "Los Ríos"
+  },
+
+  {
+    "comuna": "Puerto Montt",
+    "provincia": "Llanquihue",
+    "region": "Los Lagos"
+  },
+  {
+    "comuna": "Puerto Varas",
+    "provincia": "Llanquihue",
+    "region": "Los Lagos"
+  },
+  {
+    "comuna": "Llanquihue",
+    "provincia": "Llanquihue",
+    "region": "Los Lagos"
+  },
+  {
+    "comuna": "Fresia",
+    "provincia": "Llanquihue",
+    "region": "Los Lagos"
+  },
+  {
+    "comuna": "Frutillar",
+    "provincia": "Llanquihue",
+    "region": "Los Lagos"
+  },
+  {
+    "comuna": "Los Muermos",
+    "provincia": "Llanquihue",
+    "region": "Los Lagos"
+  },
+  {
+    "comuna": "Calbuco",
+    "provincia": "Llanquihue",
+    "region": "Los Lagos"
+  },
+  {
+    "comuna": "Maullín",
+    "provincia": "Llanquihue",
+    "region": "Los Lagos"
+  },
+
+  {
+    "comuna": "Castro",
+    "provincia": "Chiloé",
+    "region": "Los Lagos"
+  },
+  {
+    "comuna": "Ancud",
+    "provincia": "Chiloé",
+    "region": "Los Lagos"
+  },
+  {
+    "comuna": "Quellón",
+    "provincia": "Chiloé",
+    "region": "Los Lagos"
+  },
+  {
+    "comuna": "Dalcahue",
+    "provincia": "Chiloé",
+    "region": "Los Lagos"
+  },
+  {
+    "comuna": "Curaco de Vélez",
+    "provincia": "Chiloé",
+    "region": "Los Lagos"
+  },
+  {
+    "comuna": "Chonchi",
+    "provincia": "Chiloé",
+    "region": "Los Lagos"
+  },
+  {
+    "comuna": "Puqueldón",
+    "provincia": "Chiloé",
+    "region": "Los Lagos"
+  },
+  {
+    "comuna": "Queilén",
+    "provincia": "Chiloé",
+    "region": "Los Lagos"
+  },
+  {
+    "comuna": "Quemchi",
+    "provincia": "Chiloé",
+    "region": "Los Lagos"
+  },
+  {
+    "comuna": "Quinchao",
+    "provincia": "Chiloé",
+    "region": "Los Lagos"
+  },
+
+  {
+    "comuna": "Osorno",
+    "provincia": "Osorno",
+    "region": "Los Lagos"
+  },
+  {
+    "comuna": "San Pablo",
+    "provincia": "Osorno",
+    "region": "Los Lagos"
+  },
+  {
+    "comuna": "Puyehue",
+    "provincia": "Osorno",
+    "region": "Los Lagos"
+  },
+  {
+    "comuna": "Río Negro",
+    "provincia": "Osorno",
+    "region": "Los Lagos"
+  },
+  {
+    "comuna": "Purranque",
+    "provincia": "Osorno",
+    "region": "Los Lagos"
+  },
+  {
+    "comuna": "Puerto Octay",
+    "provincia": "Osorno",
+    "region": "Los Lagos"
+  },
+
+  {
+    "comuna": "Coyhaique",
+    "provincia": "Coyhaique",
+    "region": "Aysén"
+  },
+  {
+    "comuna": "Lago Verde",
+    "provincia": "Coyhaique",
+    "region": "Aysén"
+  },
+  {
+    "comuna": "Aysén",
+    "provincia": "Aysén",
+    "region": "Aysén"
+  },
+  {
+    "comuna": "Cisnes",
+    "provincia": "Aysén",
+    "region": "Aysén"
+  },
+  {
+    "comuna": "Guaitecas",
+    "provincia": "Aysén",
+    "region": "Aysén"
+  },
+  {
+    "comuna": "Chile Chico",
+    "provincia": "General Carrera",
+    "region": "Aysén"
+  },
+  {
+    "comuna": "Río Ibáñez",
+    "provincia": "General Carrera",
+    "region": "Aysén"
+  },
+  {
+    "comuna": "Cochrane",
+    "provincia": "Capitán Prat",
+    "region": "Aysén"
+  },
+  {
+    "comuna": "O'Higgins",
+    "provincia": "Capitán Prat",
+    "region": "Aysén"
+  },
+  {
+    "comuna": "Tortel",
+    "provincia": "Capitán Prat",
+    "region": "Aysén"
+  },
+
+  {
+    "comuna": "Punta Arenas",
+    "provincia": "Magallanes",
+    "region": "Magallanes"
+  },
+  {
+    "comuna": "Laguna Blanca",
+    "provincia": "Magallanes",
+    "region": "Magallanes"
+  },
+  {
+    "comuna": "Río Verde",
+    "provincia": "Magallanes",
+    "region": "Magallanes"
+  },
+  {
+    "comuna": "San Gregorio",
+    "provincia": "Magallanes",
+    "region": "Magallanes"
+  },
+  {
+    "comuna": "Puerto Natales",
+    "provincia": "Última Esperanza",
+    "region": "Magallanes"
+  },
+  {
+    "comuna": "Torres del Paine",
+    "provincia": "Última Esperanza",
+    "region": "Magallanes"
+  },
+  {
+    "comuna": "Porvenir",
+    "provincia": "Tierra del Fuego",
+    "region": "Magallanes"
+  },
+  {
+    "comuna": "Primavera",
+    "provincia": "Tierra del Fuego",
+    "region": "Magallanes"
+  },
+  {
+    "comuna": "Timaukel",
+    "provincia": "Tierra del Fuego",
+    "region": "Magallanes"
+  },
+  {
+    "comuna": "Cabo de Hornos",
+    "provincia": "Antártica Chilena",
+    "region": "Magallanes"
+  },{
+    "comuna": "Antártica",
+    "provincia": "Antártica Chilena",
+    "region": "Magallanes"
+  },
+  {
+    "comuna": "Arauco",
+    "provincia": "Arauco",
+    "region": "Biobío"
+  },
+  {
+    "comuna": "Cabildo",
+    "provincia": "Petorca",
+    "region": "Valparaíso"
+  },
+  {
+    "comuna": "Calama",
+    "provincia": "El Loa",
+    "region": "Antofagasta"
+  },
+  {
+    "comuna": "Cañete",
+    "provincia": "Arauco",
+    "region": "Biobío"
+  },
+  {
+    "comuna": "Catemu",
+    "provincia": "San Felipe de Aconcagua",
+    "region": "Valparaíso"
+  },
+  {
+    "comuna": "Chaitén",
+    "provincia": "Palena",
+    "region": "Los Lagos"
+  },
+  {
+    "comuna": "Chépica",
+    "provincia": "Colchagua",
+    "region": "O'Higgins"
+  },
+  {
+    "comuna": "Cochamó",
+    "provincia": "Llanquihue",
+    "region": "Los Lagos"
+  },
+  {
+    "comuna": "Constitución",
+    "provincia": "Talca",
+    "region": "Maule"
+  },
+  {
+    "comuna": "Contulmo",
+    "provincia": "Arauco",
+    "region": "Biobío"
+  },
+  {
+    "comuna": "Curanilahue",
+    "provincia": "Arauco",
+    "region": "Biobío"
+  },
+  {
+    "comuna": "Futaleufú",
+    "provincia": "Palena",
+    "region": "Los Lagos"
+  },
+  {
+    "comuna": "Galvarino",
+    "provincia": "Cautín",
+    "region": "La Araucanía"
+  },
+  {
+    "comuna": "Hualaihué",
+    "provincia": "Palena",
+    "region": "Los Lagos"
+  },
+  {
+    "comuna": "La Cruz",
+    "provincia": "Quillota",
+    "region": "Valparaíso"
+  },
+  {
+    "comuna": "La Higuera",
+    "provincia": "Elqui",
+    "region": "Coquimbo"
+  },
+  {
+    "comuna": "La Ligua",
+    "provincia": "Petorca",
+    "region": "Valparaíso"
+  },
+  {
+    "comuna": "Zapallar",
+    "provincia": "Petorca",
+    "region": "Valparaíso"
+  },
+  {
+    "comuna": "Lautaro",
+    "provincia": "Cautín",
+    "region": "La Araucanía"
+  },
+  {
+    "comuna": "Lebu",
+    "provincia": "Arauco",
+    "region": "Biobío"
+  },
+  {
+    "comuna": "Tirúa",
+    "provincia": "Arauco",
+    "region": "Biobío"
+  },
+  {
+    "comuna": "Llaillay",
+    "provincia": "San Felipe de Aconcagua",
+    "region": "Valparaíso"
+  },
+  {
+    "comuna": "Los Álamos",
+    "provincia": "Arauco",
+    "region": "Biobío"
+  },
+  {
+    "comuna": "Malloa",
+    "provincia": "Cachapoal",
+    "region": "O'Higgins"
+  },
+  {
+    "comuna": "María Elena",
+    "provincia": "Tocopilla",
+    "region": "Antofagasta"
+  },
+  {
+    "comuna": "Ollagüe",
+    "provincia": "El Loa",
+    "region": "Antofagasta"
+  },
+  {
+    "comuna": "Papudo",
+    "provincia": "Petorca",
+    "region": "Valparaíso"
+  },
+  {
+    "comuna": "Paredones",
+    "provincia": "Cardenal Caro",
+    "region": "O'Higgins"
+  },
+  {
+    "comuna": "Pencahue",
+    "provincia": "Talca",
+    "region": "Maule"
+  },
+  {
+    "comuna": "Pinto",
+    "provincia": "Diguillín",
+    "region": "Ñuble"
+  },
+  {
+    "comuna": "Pitrufquén",
+    "provincia": "Cautín",
+    "region": "La Araucanía"
+  },
+  {
+    "comuna": "Olmué",
+    "provincia": "Marga Marga",
+    "region": "Valparaíso"
+  },
+  {
+    "comuna": "Quilpué",
+    "provincia": "Marga Marga",
+    "region": "Valparaíso"
+  },
+  {
+    "comuna": "Quinta de Tilcoco",
+    "provincia": "Cachapoal",
+    "region": "O'Higgins"
+  },
+  {
+    "comuna": "Rengo",
+    "provincia": "Cachapoal",
+    "region": "O'Higgins"
+  },
+  {
+    "comuna": "Requínoa",
+    "provincia": "Cachapoal",
+    "region": "O'Higgins"
+  },
+  {
+    "comuna": "Río Hurtado",
+    "provincia": "Limarí",
+    "region": "Coquimbo"
+  },
+  {
+    "comuna": "San Juan de la Costa",
+    "provincia": "Osorno",
+    "region": "Los Lagos"
+  },
+  {
+    "comuna": "San Nicolás",
+    "provincia": "Punilla",
+    "region": "Ñuble"
+  },
+  {
+    "comuna": "San Pedro de Atacama",
+    "provincia": "El Loa",
+    "region": "Antofagasta"
+  },
+  {
+    "comuna": "Santa Bárbara",
+    "provincia": "Biobío",
+    "region": "Biobío"
+  },
+  {
+    "comuna": "Santo Domingo",
+    "provincia": "San Antonio",
+    "region": "Valparaíso"
+  },
+  {
+    "comuna": "Villa Alemana",
+    "provincia": "Marga Marga",
+    "region": "Valparaíso"
+  }
+]
+

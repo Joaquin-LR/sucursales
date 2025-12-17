@@ -1,0 +1,238 @@
+body {
+  font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  background: #000000;
+  margin: 0;
+  padding: 0;
+}
+
+/* =========================
+   CONTENEDOR PRINCIPAL
+========================= */
+
+.container {
+  position: relative;
+  min-width: 800px;
+  max-width: max-content;
+  margin: 50px auto;
+  background: #1d1d1d;
+  padding: 20px;
+  border-radius: 12px;
+  text-align: center;
+  z-index: 1;
+  overflow: visible;
+  padding: 40px;
+}
+
+/* ===== BORDE NEÓN ANIMADO ===== */
+
+.container::before {
+  content: "";
+  position: absolute;
+  inset: -4px;
+  border-radius: 16px;
+  background: linear-gradient(
+    45deg,
+    #ffffff,
+    #ff4500,
+    #003cff,
+    #ff4500,
+    #ffffff
+  );
+  background-size: 400% 400%;
+  animation:
+    neonRotate 6s linear infinite,
+    neonPulse 2s ease-in-out infinite;
+  z-index: -2;
+  filter: blur(8px);
+  pointer-events: none;
+}
+
+.container::after {
+  content: "";
+  position: absolute;
+  inset: 2px;
+  background: #000;
+  border-radius: 10px;
+  z-index: -1;
+  pointer-events: none;
+}
+
+/* =========================
+   TÍTULO
+========================= */
+
+h1 {
+  font-size: 25px;
+  margin-bottom: 25px;
+  font-weight: bold;
+  color:whitesmoke;
+  transform: translate(0,-7px);
+  font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  
+}
+
+/* =========================
+   INPUT + BOTÓN
+========================= */
+
+.autocomplete-wrapper {
+  position: relative;
+  width: 100%;
+  z-index: 9999;
+}
+
+.input-boton-wrapper {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 6px;
+}
+
+#inputComuna {
+  width: 75%;
+  padding: 12px;
+  font-size: 16px;
+  text-align: center;
+  border-radius: 10px;
+  border: none;
+  font-weight: 600;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+#inputComuna:focus {
+  outline: 3px solid #ff6600;
+}
+
+#btnBuscar {
+  width: 118px;
+  padding: 12px 10px;
+  font-size: 14px;
+  font-weight: bold;
+  cursor: pointer;
+  background-color: #ff6600;
+  color: #000;
+  border-radius: 10px;
+  border: none;
+}
+
+#btnBuscar:hover {
+  color: white;
+  background-color: #ff6600;
+  zoom: 1.05;
+}
+
+#btnBuscar:focus {
+  outline: 3px solid rgb(255, 255, 255);
+}
+
+/* =========================
+   AUTOCOMPLETE
+========================= */
+
+.autocomplete-items {
+  position: absolute;
+  top: 100%;
+  left: 15%;
+  right: 15%;
+  background: #eeeeee;
+  border-radius: 8px;
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.3);
+  margin-top: 4px;
+  max-height: 260px;
+  overflow-y: auto;
+}
+
+.autocomplete-item {
+  padding: 10px 14px;
+  cursor: pointer;
+  font-size: 15px;
+  text-align: left;
+}
+
+.autocomplete-item:hover,
+.autocomplete-item.active {
+  background-color: #ff6600;
+  color: #ffffff;
+  font-weight: bold;
+}
+
+/* =========================
+   TABLA DE RESULTADOS
+========================= */
+
+.tabla-resultados {
+  width: 100%;
+  margin-top: 40px;
+  border-collapse: collapse;
+  background-color: #000000;
+  border-radius: 10px;
+  overflow: hidden;
+}
+
+.tabla-resultados th,
+.tabla-resultados td {
+  
+  border: 1px solid #ffffff;
+  padding: 10px;
+  font-size: 16px;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  text-align: left;
+  color: white;
+}
+
+.tabla-resultados th {
+  background-color: #ff6600;
+  color: rgb(0, 0, 0);
+  text-align: center;
+}
+
+.tabla-resultados tr:nth-child(even) {
+  background-color: #161616;
+  color: white;
+}
+
+.tabla-resultados td {
+  padding: 15px;
+}
+
+/* ===== FOCO ACCESIBLE ===== */
+
+.tabla-resultados td:focus  {
+  background-color: #170a4d;
+}
+
+/* =========================
+   MENSAJES
+========================= */
+
+#resultados p {
+  color: #ff4d4d;
+  font-weight: bold;
+  margin-top: 15px;
+}
+
+/* =========================
+   ANIMACIONES NEÓN
+========================= */
+
+@keyframes neonRotate {
+  0% {
+    background-position: 0% 50%;
+  }
+  50% {
+    background-position: 100% 50%;
+  }
+  100% {
+    background-position: 0% 50%;
+  }
+}
+
+@keyframes neonPulse {
+  0%,
+  100% {
+    filter: blur(8px) brightness(1);
+  }
+  50% {
+    filter: blur(11px) brightness(1.4);
+  }
+}

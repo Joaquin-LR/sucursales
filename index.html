@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <title>Derivación de Sucursales</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+
+  <div class="container">
+    <h1>Sucursales de Normalización de Créditos</h1>
+
+    <div class="autocomplete-wrapper">
+      <div class="input-boton-wrapper">
+        <input
+          type="text"
+          id="inputComuna"
+          placeholder="Ingrese comuna"
+          autocomplete="off"
+          aria-label="Ingrese nombre de la comuna"
+        />
+        <button id="btnBuscar" type="button">Buscar</button>
+      </div>
+
+      <div id="autocomplete-list" class="autocomplete-items"></div>
+    </div>
+
+    <div id="resultados" aria-live="polite"></div>
+  </div>
+
+  <script src="app.js"></script>
+</body>
+</html>
